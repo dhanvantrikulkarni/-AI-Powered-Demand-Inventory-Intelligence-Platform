@@ -1,0 +1,2213 @@
+SKU,Current_Stock,Forecast,Stockout_Risk,Overstock_Risk,Risk_Score,Recommendation,Category
+SKU00001,152,12.0,None,High,75,Markdown/Clear,Food
+SKU00002,70,7.99,None,High,75,Markdown/Clear,Beauty
+SKU00003,180,4.84,None,High,75,Markdown/Clear,Home & Garden
+SKU00004,393,15.03,None,High,75,Markdown/Clear,Books
+SKU00005,241,10.0,None,High,75,Markdown/Clear,Toys
+SKU00006,363,3.62,None,High,75,Markdown/Clear,Toys
+SKU00007,108,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00008,293,7.99,None,High,75,Markdown/Clear,Automotive
+SKU00009,356,15.03,None,High,75,Markdown/Clear,Health
+SKU00010,323,5.05,None,High,75,Markdown/Clear,Home & Garden
+SKU00011,63,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00012,435,10.0,None,High,75,Markdown/Clear,Books
+SKU00013,313,18.02,None,High,75,Markdown/Clear,Automotive
+SKU00014,99,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00015,103,12.0,None,High,75,Markdown/Clear,Food
+SKU00016,451,7.99,None,High,75,Markdown/Clear,Home & Garden
+SKU00017,319,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00018,345,15.03,None,High,75,Markdown/Clear,Toys
+SKU00019,329,6.48,None,High,75,Markdown/Clear,Clothing
+SKU00020,429,25.0,None,High,75,Markdown/Clear,Sports
+SKU00021,393,18.02,None,High,75,Markdown/Clear,Beauty
+SKU00022,188,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00023,468,5.81,None,High,75,Markdown/Clear,Books
+SKU00024,280,10.0,None,High,75,Markdown/Clear,Automotive
+SKU00025,467,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00026,111,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00027,409,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00028,498,25.0,None,High,75,Markdown/Clear,Books
+SKU00029,180,5.2,None,High,75,Markdown/Clear,Food
+SKU00030,408,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00031,395,10.0,None,High,75,Markdown/Clear,Beauty
+SKU00032,401,30.0,None,High,75,Markdown/Clear,Toys
+SKU00033,280,8.0,None,High,75,Markdown/Clear,Books
+SKU00034,85,5.86,None,High,75,Markdown/Clear,Books
+SKU00035,292,12.0,None,High,75,Markdown/Clear,Food
+SKU00036,94,10.0,None,High,75,Markdown/Clear,Health
+SKU00037,333,20.0,None,High,75,Markdown/Clear,Food
+SKU00038,495,15.0,None,High,75,Markdown/Clear,Sports
+SKU00039,274,25.0,None,High,75,Markdown/Clear,Sports
+SKU00040,495,17.99,None,High,75,Markdown/Clear,Home & Garden
+SKU00041,408,10.0,None,High,75,Markdown/Clear,Automotive
+SKU00042,186,8.0,None,High,75,Markdown/Clear,Sports
+SKU00043,283,15.0,None,High,75,Markdown/Clear,Health
+SKU00044,423,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00045,162,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00046,101,8.0,None,High,75,Markdown/Clear,Food
+SKU00047,436,10.0,None,High,75,Markdown/Clear,Books
+SKU00048,162,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00049,392,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00050,452,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00051,267,17.99,None,High,75,Markdown/Clear,Food
+SKU00052,296,10.0,None,High,75,Markdown/Clear,Electronics
+SKU00053,172,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00054,374,8.0,None,High,75,Markdown/Clear,Books
+SKU00055,289,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00056,375,15.0,None,High,75,Markdown/Clear,Toys
+SKU00057,301,10.0,None,High,75,Markdown/Clear,Beauty
+SKU00058,395,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00059,401,20.0,None,High,75,Markdown/Clear,Toys
+SKU00060,473,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00061,316,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00062,200,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00063,301,10.0,None,High,75,Markdown/Clear,Sports
+SKU00064,418,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00065,303,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00066,209,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00067,353,10.0,None,High,75,Markdown/Clear,Health
+SKU00068,201,8.0,None,High,75,Markdown/Clear,Health
+SKU00069,457,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00070,471,12.0,None,High,75,Markdown/Clear,Books
+SKU00071,398,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00072,359,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00073,117,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00074,453,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00075,450,10.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00076,287,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00077,487,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00078,275,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00079,416,10.0,None,High,75,Markdown/Clear,Books
+SKU00080,366,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00081,84,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00082,221,20.0,None,High,75,Markdown/Clear,Toys
+SKU00083,148,12.0,None,High,75,Markdown/Clear,Toys
+SKU00084,230,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00085,165,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00086,210,10.0,None,High,75,Markdown/Clear,Books
+SKU00087,272,15.0,None,High,75,Markdown/Clear,Sports
+SKU00088,409,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00089,480,20.0,None,High,75,Markdown/Clear,Books
+SKU00090,176,12.0,None,High,75,Markdown/Clear,Books
+SKU00091,322,25.0,None,High,75,Markdown/Clear,Books
+SKU00092,295,10.0,None,High,75,Markdown/Clear,Sports
+SKU00093,296,15.0,None,High,75,Markdown/Clear,Food
+SKU00094,458,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00095,362,20.0,None,High,75,Markdown/Clear,Health
+SKU00096,313,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00097,141,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00098,264,15.0,None,High,75,Markdown/Clear,Health
+SKU00099,202,10.0,None,High,75,Markdown/Clear,Toys
+SKU00100,107,20.0,None,High,75,Markdown/Clear,Food
+SKU00101,219,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00102,150,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00103,109,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00104,311,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00105,404,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00106,193,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00107,196,12.0,None,High,75,Markdown/Clear,Toys
+SKU00108,324,25.0,None,High,75,Markdown/Clear,Sports
+SKU00109,395,10.0,None,High,75,Markdown/Clear,Books
+SKU00110,328,15.0,None,High,75,Markdown/Clear,Books
+SKU00111,107,8.0,None,High,75,Markdown/Clear,Sports
+SKU00112,138,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00113,496,12.0,None,High,75,Markdown/Clear,Health
+SKU00114,125,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00115,334,10.0,None,High,75,Markdown/Clear,Books
+SKU00116,143,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00117,253,20.0,None,High,75,Markdown/Clear,Health
+SKU00118,390,25.0,None,High,75,Markdown/Clear,Toys
+SKU00119,303,12.0,None,High,75,Markdown/Clear,Books
+SKU00120,299,30.0,None,High,75,Markdown/Clear,Books
+SKU00121,149,8.0,None,High,75,Markdown/Clear,Health
+SKU00122,299,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00123,374,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00124,433,25.0,None,High,75,Markdown/Clear,Books
+SKU00125,445,12.0,None,High,75,Markdown/Clear,Books
+SKU00126,466,10.0,None,High,75,Markdown/Clear,Books
+SKU00127,150,15.0,None,High,75,Markdown/Clear,Books
+SKU00128,466,20.0,None,High,75,Markdown/Clear,Health
+SKU00129,93,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00130,264,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00131,142,30.0,None,High,75,Markdown/Clear,Sports
+SKU00132,164,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00133,163,10.0,None,High,75,Markdown/Clear,Books
+SKU00134,266,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00135,443,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00136,276,20.0,None,High,75,Markdown/Clear,Food
+SKU00137,145,12.0,None,High,75,Markdown/Clear,Health
+SKU00138,273,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00139,62,8.0,None,High,75,Markdown/Clear,Books
+SKU00140,322,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00141,236,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00142,494,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00143,255,25.0,None,High,75,Markdown/Clear,Sports
+SKU00144,422,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00145,74,10.0,None,High,75,Markdown/Clear,Electronics
+SKU00146,200,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00147,158,20.0,None,High,75,Markdown/Clear,Sports
+SKU00148,472,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00149,212,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00150,288,8.0,None,High,75,Markdown/Clear,Sports
+SKU00151,450,12.0,None,High,75,Markdown/Clear,Books
+SKU00152,442,20.0,None,High,75,Markdown/Clear,Sports
+SKU00153,54,25.0,None,High,75,Markdown/Clear,Food
+SKU00154,388,10.0,None,High,75,Markdown/Clear,Books
+SKU00155,376,15.0,None,High,75,Markdown/Clear,Health
+SKU00156,119,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00157,413,25.0,None,High,75,Markdown/Clear,Health
+SKU00158,88,8.0,None,High,75,Markdown/Clear,Food
+SKU00159,197,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00160,432,12.0,None,High,75,Markdown/Clear,Books
+SKU00161,397,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00162,418,20.0,None,High,75,Markdown/Clear,Sports
+SKU00163,471,25.0,None,High,75,Markdown/Clear,Sports
+SKU00164,222,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00165,276,30.0,None,High,75,Markdown/Clear,Health
+SKU00166,451,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00167,63,20.0,None,High,75,Markdown/Clear,Health
+SKU00168,423,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00169,61,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00170,205,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00171,139,12.0,None,High,75,Markdown/Clear,Health
+SKU00172,227,30.0,None,High,75,Markdown/Clear,Books
+SKU00173,277,15.0,None,High,75,Markdown/Clear,Books
+SKU00174,194,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00175,446,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00176,131,8.0,None,High,75,Markdown/Clear,Food
+SKU00177,59,30.0,Low,High,75,Watch,Beauty
+SKU00178,168,12.0,None,High,75,Markdown/Clear,Books
+SKU00179,195,20.0,None,High,75,Markdown/Clear,Health
+SKU00180,390,25.0,None,High,75,Markdown/Clear,Books
+SKU00181,332,8.0,None,High,75,Markdown/Clear,Toys
+SKU00182,454,15.0,None,High,75,Markdown/Clear,Books
+SKU00183,400,10.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00184,486,30.0,None,High,75,Markdown/Clear,Books
+SKU00185,214,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00186,134,25.0,None,High,75,Markdown/Clear,Books
+SKU00187,100,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00188,498,8.0,None,High,75,Markdown/Clear,Books
+SKU00189,203,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00190,428,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00191,285,15.0,None,High,75,Markdown/Clear,Food
+SKU00192,450,20.0,None,High,75,Markdown/Clear,Books
+SKU00193,115,25.0,None,High,75,Markdown/Clear,Books
+SKU00194,241,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00195,147,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00196,496,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00197,384,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00198,130,25.0,None,High,75,Markdown/Clear,Toys
+SKU00199,233,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00200,389,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00201,311,12.0,None,High,75,Markdown/Clear,Food
+SKU00202,289,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00203,232,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00204,57,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00205,233,8.0,None,High,75,Markdown/Clear,Toys
+SKU00206,204,30.0,None,High,75,Markdown/Clear,Food
+SKU00207,171,12.0,None,High,75,Markdown/Clear,Sports
+SKU00208,54,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00209,71,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00210,182,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00211,83,8.0,None,High,75,Markdown/Clear,Toys
+SKU00212,460,30.0,None,High,75,Markdown/Clear,Sports
+SKU00213,170,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00214,97,25.0,None,High,75,Markdown/Clear,Health
+SKU00215,341,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00216,256,15.0,None,High,75,Markdown/Clear,Books
+SKU00217,77,25.0,None,High,75,Markdown/Clear,Health
+SKU00218,414,8.0,None,High,75,Markdown/Clear,Health
+SKU00219,420,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00220,287,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00221,276,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00222,251,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00223,280,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00224,74,8.0,None,High,75,Markdown/Clear,Food
+SKU00225,117,30.0,None,High,75,Markdown/Clear,Health
+SKU00226,160,12.0,None,High,75,Markdown/Clear,Food
+SKU00227,160,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00228,474,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00229,369,25.0,None,High,75,Markdown/Clear,Food
+SKU00230,364,8.0,None,High,75,Markdown/Clear,Health
+SKU00231,486,30.0,None,High,75,Markdown/Clear,Sports
+SKU00232,119,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00233,367,15.0,None,High,75,Markdown/Clear,Toys
+SKU00234,186,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00235,89,25.0,None,High,75,Markdown/Clear,Books
+SKU00236,371,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00237,384,30.0,None,High,75,Markdown/Clear,Toys
+SKU00238,111,12.0,None,High,75,Markdown/Clear,Toys
+SKU00239,75,25.0,None,High,75,Markdown/Clear,Sports
+SKU00240,459,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00241,162,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00242,369,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00243,405,30.0,None,High,75,Markdown/Clear,Sports
+SKU00244,210,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00245,310,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00246,435,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00247,133,15.0,None,High,75,Markdown/Clear,Health
+SKU00248,314,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00249,468,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00250,367,12.0,None,High,75,Markdown/Clear,Books
+SKU00251,467,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00252,50,20.0,None,High,75,Markdown/Clear,Health
+SKU00253,369,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00254,410,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00255,54,30.0,Low,High,75,Watch,Automotive
+SKU00256,111,12.0,None,High,75,Markdown/Clear,Food
+SKU00257,138,15.0,None,High,75,Markdown/Clear,Books
+SKU00258,153,20.0,None,High,75,Markdown/Clear,Books
+SKU00259,402,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00260,194,8.0,None,High,75,Markdown/Clear,Toys
+SKU00261,358,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00262,247,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00263,228,15.0,None,High,75,Markdown/Clear,Health
+SKU00264,64,20.0,None,High,75,Markdown/Clear,Health
+SKU00265,469,25.0,None,High,75,Markdown/Clear,Food
+SKU00266,146,8.0,None,High,75,Markdown/Clear,Toys
+SKU00267,303,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00268,59,12.0,None,High,75,Markdown/Clear,Food
+SKU00269,446,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00270,233,20.0,None,High,75,Markdown/Clear,Toys
+SKU00271,206,25.0,None,High,75,Markdown/Clear,Health
+SKU00272,179,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00273,341,30.0,None,High,75,Markdown/Clear,Sports
+SKU00274,118,12.0,None,High,75,Markdown/Clear,Books
+SKU00275,183,15.0,None,High,75,Markdown/Clear,Sports
+SKU00276,395,20.0,None,High,75,Markdown/Clear,Health
+SKU00277,267,25.0,None,High,75,Markdown/Clear,Sports
+SKU00278,259,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00279,220,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00280,182,12.0,None,High,75,Markdown/Clear,Sports
+SKU00281,427,15.0,None,High,75,Markdown/Clear,Books
+SKU00282,78,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00283,263,25.0,None,High,75,Markdown/Clear,Health
+SKU00284,351,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00285,231,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00286,368,12.0,None,High,75,Markdown/Clear,Sports
+SKU00287,448,15.0,None,High,75,Markdown/Clear,Books
+SKU00288,186,20.0,None,High,75,Markdown/Clear,Health
+SKU00289,166,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00290,112,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00291,435,30.0,None,High,75,Markdown/Clear,Sports
+SKU00292,396,12.0,None,High,75,Markdown/Clear,Toys
+SKU00293,413,15.0,None,High,75,Markdown/Clear,Books
+SKU00294,74,20.0,None,High,75,Markdown/Clear,Health
+SKU00295,393,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00296,112,8.0,None,High,75,Markdown/Clear,Health
+SKU00297,419,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00298,197,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00299,376,15.0,None,High,75,Markdown/Clear,Sports
+SKU00300,428,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00301,81,25.0,None,High,75,Markdown/Clear,Health
+SKU00302,335,8.0,None,High,75,Markdown/Clear,Food
+SKU00303,67,30.0,None,High,75,Markdown/Clear,Sports
+SKU00304,243,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00305,484,15.0,None,High,75,Markdown/Clear,Food
+SKU00306,313,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00307,337,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00308,429,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00309,337,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00310,370,12.0,None,High,75,Markdown/Clear,Sports
+SKU00311,492,15.0,None,High,75,Markdown/Clear,Food
+SKU00312,100,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00313,340,25.0,None,High,75,Markdown/Clear,Food
+SKU00314,169,12.0,None,High,75,Markdown/Clear,Food
+SKU00315,214,20.0,None,High,75,Markdown/Clear,Food
+SKU00316,272,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00317,379,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00318,134,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00319,334,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00320,434,12.0,None,High,75,Markdown/Clear,Sports
+SKU00321,60,20.0,None,High,75,Markdown/Clear,Food
+SKU00322,69,25.0,None,High,75,Markdown/Clear,Food
+SKU00323,305,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00324,477,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00325,130,12.0,None,High,75,Markdown/Clear,Health
+SKU00326,264,15.0,None,High,75,Markdown/Clear,Food
+SKU00327,58,20.0,None,High,75,Markdown/Clear,Toys
+SKU00328,408,25.0,None,High,75,Markdown/Clear,Books
+SKU00329,284,8.0,None,High,75,Markdown/Clear,Toys
+SKU00330,78,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00331,124,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00332,405,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00333,66,20.0,None,High,75,Markdown/Clear,Food
+SKU00334,362,25.0,None,High,75,Markdown/Clear,Sports
+SKU00335,147,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00336,443,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00337,239,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00338,412,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00339,341,20.0,None,High,75,Markdown/Clear,Books
+SKU00340,345,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00341,344,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00342,160,30.0,None,High,75,Markdown/Clear,Food
+SKU00343,118,12.0,None,High,75,Markdown/Clear,Books
+SKU00344,288,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00345,414,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00346,499,25.0,None,High,75,Markdown/Clear,Books
+SKU00347,66,8.0,None,High,75,Markdown/Clear,Sports
+SKU00348,476,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00349,340,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00350,484,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00351,324,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00352,494,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00353,360,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00354,198,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00355,249,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00356,192,20.0,None,High,75,Markdown/Clear,Books
+SKU00357,96,25.0,None,High,75,Markdown/Clear,Toys
+SKU00358,248,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00359,135,30.0,None,High,75,Markdown/Clear,Food
+SKU00360,186,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00361,264,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00362,451,20.0,None,High,75,Markdown/Clear,Toys
+SKU00363,63,25.0,None,High,75,Markdown/Clear,Health
+SKU00364,350,8.0,None,High,75,Markdown/Clear,Health
+SKU00365,220,30.0,None,High,75,Markdown/Clear,Health
+SKU00366,413,12.0,None,High,75,Markdown/Clear,Books
+SKU00367,398,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00368,259,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00369,360,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00370,463,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00371,145,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00372,351,12.0,None,High,75,Markdown/Clear,Health
+SKU00373,294,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00374,463,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00375,114,25.0,None,High,75,Markdown/Clear,Health
+SKU00376,478,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00377,373,30.0,None,High,75,Markdown/Clear,Food
+SKU00378,481,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00379,354,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00380,236,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00381,429,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00382,368,8.0,None,High,75,Markdown/Clear,Food
+SKU00383,111,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00384,248,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00385,121,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00386,267,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00387,425,25.0,None,High,75,Markdown/Clear,Sports
+SKU00388,103,8.0,None,High,75,Markdown/Clear,Books
+SKU00389,58,30.0,Low,High,75,Watch,Beauty
+SKU00390,428,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00391,194,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00392,276,20.0,None,High,75,Markdown/Clear,Books
+SKU00393,447,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00394,372,8.0,None,High,75,Markdown/Clear,Health
+SKU00395,458,30.0,None,High,75,Markdown/Clear,Books
+SKU00396,89,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00397,492,15.0,None,High,75,Markdown/Clear,Health
+SKU00398,377,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00399,86,25.0,None,High,75,Markdown/Clear,Toys
+SKU00400,350,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00401,372,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00402,396,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00403,265,15.0,None,High,75,Markdown/Clear,Health
+SKU00404,108,20.0,None,High,75,Markdown/Clear,Books
+SKU00405,412,25.0,None,High,75,Markdown/Clear,Toys
+SKU00406,219,8.0,None,High,75,Markdown/Clear,Health
+SKU00407,237,30.0,None,High,75,Markdown/Clear,Books
+SKU00408,363,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00409,443,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00410,207,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00411,255,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00412,273,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00413,409,30.0,None,High,75,Markdown/Clear,Books
+SKU00414,497,12.0,None,High,75,Markdown/Clear,Toys
+SKU00415,463,15.0,None,High,75,Markdown/Clear,Health
+SKU00416,461,20.0,None,High,75,Markdown/Clear,Health
+SKU00417,245,25.0,None,High,75,Markdown/Clear,Food
+SKU00418,268,8.0,None,High,75,Markdown/Clear,Food
+SKU00419,455,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00420,71,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00421,319,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00422,430,20.0,None,High,75,Markdown/Clear,Food
+SKU00423,444,25.0,None,High,75,Markdown/Clear,Books
+SKU00424,484,8.0,None,High,75,Markdown/Clear,Sports
+SKU00425,479,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00426,88,12.0,None,High,75,Markdown/Clear,Toys
+SKU00427,206,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00428,179,20.0,None,High,75,Markdown/Clear,Sports
+SKU00429,76,25.0,None,High,75,Markdown/Clear,Food
+SKU00430,141,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00431,406,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00432,196,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00433,306,15.0,None,High,75,Markdown/Clear,Food
+SKU00434,211,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00435,330,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00436,257,8.0,None,High,75,Markdown/Clear,Books
+SKU00437,479,30.0,None,High,75,Markdown/Clear,Sports
+SKU00438,57,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00439,99,15.0,None,High,75,Markdown/Clear,Toys
+SKU00440,477,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00441,427,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00442,64,8.0,None,High,75,Markdown/Clear,Books
+SKU00443,431,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00444,215,12.0,None,High,75,Markdown/Clear,Books
+SKU00445,368,15.0,None,High,75,Markdown/Clear,Sports
+SKU00446,393,20.0,None,High,75,Markdown/Clear,Food
+SKU00447,254,25.0,None,High,75,Markdown/Clear,Sports
+SKU00448,323,8.0,None,High,75,Markdown/Clear,Toys
+SKU00449,81,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00450,151,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00451,263,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00452,450,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00453,209,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00454,210,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00455,291,30.0,None,High,75,Markdown/Clear,Toys
+SKU00456,282,12.0,None,High,75,Markdown/Clear,Health
+SKU00457,455,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00458,171,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00459,354,25.0,None,High,75,Markdown/Clear,Food
+SKU00460,58,8.0,None,High,75,Markdown/Clear,Health
+SKU00461,90,30.0,None,High,75,Markdown/Clear,Food
+SKU00462,397,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00463,160,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00464,439,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00465,432,25.0,None,High,75,Markdown/Clear,Sports
+SKU00466,411,8.0,None,High,75,Markdown/Clear,Food
+SKU00467,136,30.0,None,High,75,Markdown/Clear,Toys
+SKU00468,292,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00469,441,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00470,232,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00471,131,25.0,None,High,75,Markdown/Clear,Food
+SKU00472,86,8.0,None,High,75,Markdown/Clear,Food
+SKU00473,180,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00474,494,12.0,None,High,75,Markdown/Clear,Books
+SKU00475,256,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00476,399,20.0,None,High,75,Markdown/Clear,Toys
+SKU00477,73,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00478,269,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00479,226,30.0,None,High,75,Markdown/Clear,Sports
+SKU00480,299,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00481,384,15.0,None,High,75,Markdown/Clear,Books
+SKU00482,344,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00483,295,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00484,89,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00485,57,30.0,Low,High,75,Watch,Electronics
+SKU00486,477,12.0,None,High,75,Markdown/Clear,Food
+SKU00487,374,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00488,365,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00489,280,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00490,115,8.0,None,High,75,Markdown/Clear,Food
+SKU00491,498,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00492,350,12.0,None,High,75,Markdown/Clear,Books
+SKU00493,244,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00494,381,20.0,None,High,75,Markdown/Clear,Health
+SKU00495,182,25.0,None,High,75,Markdown/Clear,Health
+SKU00496,50,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00497,170,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00498,354,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00499,416,15.0,None,High,75,Markdown/Clear,Books
+SKU00500,453,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00501,69,25.0,None,High,75,Markdown/Clear,Sports
+SKU00502,247,8.0,None,High,75,Markdown/Clear,Books
+SKU00503,228,30.0,None,High,75,Markdown/Clear,Food
+SKU00504,230,12.0,None,High,75,Markdown/Clear,Books
+SKU00505,175,15.0,None,High,75,Markdown/Clear,Health
+SKU00506,334,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00507,476,25.0,None,High,75,Markdown/Clear,Food
+SKU00508,343,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00509,357,30.0,None,High,75,Markdown/Clear,Food
+SKU00510,390,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00511,206,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00512,135,20.0,None,High,75,Markdown/Clear,Toys
+SKU00513,360,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00514,163,8.0,None,High,75,Markdown/Clear,Health
+SKU00515,185,30.0,None,High,75,Markdown/Clear,Health
+SKU00516,338,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00517,191,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00518,269,20.0,None,High,75,Markdown/Clear,Books
+SKU00519,112,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00520,138,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00521,373,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00522,151,12.0,None,High,75,Markdown/Clear,Sports
+SKU00523,328,15.0,None,High,75,Markdown/Clear,Sports
+SKU00524,393,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00525,114,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00526,454,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00527,354,30.0,None,High,75,Markdown/Clear,Health
+SKU00528,477,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00529,479,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00530,377,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00531,461,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00532,61,8.0,None,High,75,Markdown/Clear,Health
+SKU00533,342,30.0,None,High,75,Markdown/Clear,Books
+SKU00534,92,12.0,None,High,75,Markdown/Clear,Books
+SKU00535,351,15.0,None,High,75,Markdown/Clear,Sports
+SKU00536,156,20.0,None,High,75,Markdown/Clear,Toys
+SKU00537,330,25.0,None,High,75,Markdown/Clear,Books
+SKU00538,320,8.0,None,High,75,Markdown/Clear,Books
+SKU00539,324,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00540,76,12.0,None,High,75,Markdown/Clear,Toys
+SKU00541,193,15.0,None,High,75,Markdown/Clear,Sports
+SKU00542,482,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00543,400,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00544,208,8.0,None,High,75,Markdown/Clear,Health
+SKU00545,494,30.0,None,High,75,Markdown/Clear,Health
+SKU00546,133,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00547,359,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00548,411,20.0,None,High,75,Markdown/Clear,Food
+SKU00549,424,25.0,None,High,75,Markdown/Clear,Health
+SKU00550,263,8.0,None,High,75,Markdown/Clear,Toys
+SKU00551,58,30.0,Low,High,75,Watch,Automotive
+SKU00552,121,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00553,396,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00554,201,20.0,None,High,75,Markdown/Clear,Books
+SKU00555,216,25.0,None,High,75,Markdown/Clear,Sports
+SKU00556,452,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00557,291,30.0,None,High,75,Markdown/Clear,Food
+SKU00558,168,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00559,481,15.0,None,High,75,Markdown/Clear,Books
+SKU00560,60,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00561,303,25.0,None,High,75,Markdown/Clear,Health
+SKU00562,340,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00563,372,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00564,474,12.0,None,High,75,Markdown/Clear,Health
+SKU00565,237,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00566,267,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00567,281,25.0,None,High,75,Markdown/Clear,Food
+SKU00568,122,8.0,None,High,75,Markdown/Clear,Books
+SKU00569,474,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00570,179,12.0,None,High,75,Markdown/Clear,Food
+SKU00571,76,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00572,279,20.0,None,High,75,Markdown/Clear,Books
+SKU00573,349,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00574,179,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00575,403,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00576,199,12.0,None,High,75,Markdown/Clear,Food
+SKU00577,382,15.0,None,High,75,Markdown/Clear,Health
+SKU00578,257,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00579,449,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00580,445,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00581,193,30.0,None,High,75,Markdown/Clear,Food
+SKU00582,409,12.0,None,High,75,Markdown/Clear,Books
+SKU00583,198,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00584,280,20.0,None,High,75,Markdown/Clear,Toys
+SKU00585,87,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00586,163,8.0,None,High,75,Markdown/Clear,Sports
+SKU00587,298,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00588,229,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00589,245,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00590,468,20.0,None,High,75,Markdown/Clear,Food
+SKU00591,391,25.0,None,High,75,Markdown/Clear,Toys
+SKU00592,288,8.0,None,High,75,Markdown/Clear,Toys
+SKU00593,131,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00594,265,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00595,385,15.0,None,High,75,Markdown/Clear,Toys
+SKU00596,122,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00597,115,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00598,255,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00599,74,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00600,338,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00601,287,15.0,None,High,75,Markdown/Clear,Sports
+SKU00602,439,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00603,454,25.0,None,High,75,Markdown/Clear,Books
+SKU00604,128,8.0,None,High,75,Markdown/Clear,Sports
+SKU00605,365,30.0,None,High,75,Markdown/Clear,Sports
+SKU00606,398,12.0,None,High,75,Markdown/Clear,Toys
+SKU00607,200,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00608,467,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00609,431,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00610,105,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00611,148,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00612,239,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00613,309,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00614,270,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00615,280,25.0,None,High,75,Markdown/Clear,Sports
+SKU00616,111,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00617,141,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00618,232,12.0,None,High,75,Markdown/Clear,Food
+SKU00619,295,15.0,None,High,75,Markdown/Clear,Food
+SKU00620,363,20.0,None,High,75,Markdown/Clear,Toys
+SKU00621,62,25.0,None,High,75,Markdown/Clear,Food
+SKU00622,387,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00623,444,30.0,None,High,75,Markdown/Clear,Books
+SKU00624,305,12.0,None,High,75,Markdown/Clear,Sports
+SKU00625,245,15.0,None,High,75,Markdown/Clear,Books
+SKU00626,462,20.0,None,High,75,Markdown/Clear,Health
+SKU00627,91,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00628,66,8.0,None,High,75,Markdown/Clear,Sports
+SKU00629,179,30.0,None,High,75,Markdown/Clear,Health
+SKU00630,291,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00631,333,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00632,313,20.0,None,High,75,Markdown/Clear,Health
+SKU00633,128,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00634,118,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00635,382,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00636,434,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00637,66,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00638,281,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00639,485,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00640,77,8.0,None,High,75,Markdown/Clear,Books
+SKU00641,310,30.0,None,High,75,Markdown/Clear,Sports
+SKU00642,369,12.0,None,High,75,Markdown/Clear,Food
+SKU00643,305,15.0,None,High,75,Markdown/Clear,Health
+SKU00644,483,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00645,431,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00646,266,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00647,198,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00648,423,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00649,400,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00650,59,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00651,451,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00652,364,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00653,463,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00654,337,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00655,171,15.0,None,High,75,Markdown/Clear,Sports
+SKU00656,317,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00657,446,25.0,None,High,75,Markdown/Clear,Food
+SKU00658,409,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00659,284,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00660,318,12.0,None,High,75,Markdown/Clear,Food
+SKU00661,262,15.0,None,High,75,Markdown/Clear,Toys
+SKU00662,99,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00663,137,25.0,None,High,75,Markdown/Clear,Sports
+SKU00664,470,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00665,52,30.0,Low,High,75,Watch,Toys
+SKU00666,72,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00667,177,15.0,None,High,75,Markdown/Clear,Food
+SKU00668,193,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00669,52,25.0,None,High,75,Markdown/Clear,Health
+SKU00670,411,8.0,None,High,75,Markdown/Clear,Books
+SKU00671,454,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00672,115,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00673,135,15.0,None,High,75,Markdown/Clear,Food
+SKU00674,61,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00675,486,25.0,None,High,75,Markdown/Clear,Health
+SKU00676,292,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00677,361,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00678,181,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00679,73,15.0,None,High,75,Markdown/Clear,Sports
+SKU00680,279,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00681,251,25.0,None,High,75,Markdown/Clear,Toys
+SKU00682,106,8.0,None,High,75,Markdown/Clear,Toys
+SKU00683,168,30.0,None,High,75,Markdown/Clear,Sports
+SKU00684,52,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00685,104,15.0,None,High,75,Markdown/Clear,Food
+SKU00686,211,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00687,208,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00688,368,8.0,None,High,75,Markdown/Clear,Toys
+SKU00689,158,30.0,None,High,75,Markdown/Clear,Health
+SKU00690,405,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00691,222,15.0,None,High,75,Markdown/Clear,Food
+SKU00692,195,20.0,None,High,75,Markdown/Clear,Sports
+SKU00693,362,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00694,247,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00695,448,30.0,None,High,75,Markdown/Clear,Toys
+SKU00696,139,12.0,None,High,75,Markdown/Clear,Food
+SKU00697,187,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00698,386,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00699,475,25.0,None,High,75,Markdown/Clear,Toys
+SKU00700,398,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00701,454,30.0,None,High,75,Markdown/Clear,Health
+SKU00702,139,12.0,None,High,75,Markdown/Clear,Books
+SKU00703,468,15.0,None,High,75,Markdown/Clear,Books
+SKU00704,149,20.0,None,High,75,Markdown/Clear,Food
+SKU00705,223,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00706,133,8.0,None,High,75,Markdown/Clear,Toys
+SKU00707,262,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00708,391,12.0,None,High,75,Markdown/Clear,Sports
+SKU00709,488,15.0,None,High,75,Markdown/Clear,Health
+SKU00710,385,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00711,93,25.0,None,High,75,Markdown/Clear,Health
+SKU00712,156,8.0,None,High,75,Markdown/Clear,Health
+SKU00713,70,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00714,56,12.0,None,High,75,Markdown/Clear,Sports
+SKU00715,297,15.0,None,High,75,Markdown/Clear,Books
+SKU00716,481,20.0,None,High,75,Markdown/Clear,Food
+SKU00717,203,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00718,363,8.0,None,High,75,Markdown/Clear,Food
+SKU00719,180,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00720,354,12.0,None,High,75,Markdown/Clear,Health
+SKU00721,494,15.0,None,High,75,Markdown/Clear,Food
+SKU00722,166,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00723,130,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00724,491,8.0,None,High,75,Markdown/Clear,Books
+SKU00725,135,30.0,None,High,75,Markdown/Clear,Food
+SKU00726,247,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00727,51,15.0,None,High,75,Markdown/Clear,Health
+SKU00728,379,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00729,135,25.0,None,High,75,Markdown/Clear,Toys
+SKU00730,343,8.0,None,High,75,Markdown/Clear,Books
+SKU00731,148,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00732,98,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00733,69,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00734,425,20.0,None,High,75,Markdown/Clear,Health
+SKU00735,460,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00736,75,8.0,None,High,75,Markdown/Clear,Sports
+SKU00737,297,30.0,None,High,75,Markdown/Clear,Sports
+SKU00738,146,12.0,None,High,75,Markdown/Clear,Books
+SKU00739,216,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00740,476,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00741,316,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00742,457,8.0,None,High,75,Markdown/Clear,Sports
+SKU00743,134,30.0,None,High,75,Markdown/Clear,Food
+SKU00744,96,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00745,365,15.0,None,High,75,Markdown/Clear,Health
+SKU00746,435,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00747,332,25.0,None,High,75,Markdown/Clear,Food
+SKU00748,269,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00749,150,30.0,None,High,75,Markdown/Clear,Toys
+SKU00750,415,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00751,444,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00752,178,20.0,None,High,75,Markdown/Clear,Food
+SKU00753,207,25.0,None,High,75,Markdown/Clear,Books
+SKU00754,461,8.0,None,High,75,Markdown/Clear,Toys
+SKU00755,374,30.0,None,High,75,Markdown/Clear,Food
+SKU00756,330,12.0,None,High,75,Markdown/Clear,Food
+SKU00757,431,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00758,314,20.0,None,High,75,Markdown/Clear,Food
+SKU00759,477,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00760,413,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00761,125,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00762,205,12.0,None,High,75,Markdown/Clear,Sports
+SKU00763,229,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00764,480,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00765,328,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00766,374,8.0,None,High,75,Markdown/Clear,Books
+SKU00767,338,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00768,473,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00769,250,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00770,116,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00771,352,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00772,166,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00773,450,30.0,None,High,75,Markdown/Clear,Food
+SKU00774,300,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00775,140,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00776,87,20.0,None,High,75,Markdown/Clear,Toys
+SKU00777,84,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00778,473,8.0,None,High,75,Markdown/Clear,Sports
+SKU00779,481,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00780,475,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00781,222,15.0,None,High,75,Markdown/Clear,Food
+SKU00782,480,20.0,None,High,75,Markdown/Clear,Toys
+SKU00783,486,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00784,335,8.0,None,High,75,Markdown/Clear,Sports
+SKU00785,138,30.0,None,High,75,Markdown/Clear,Health
+SKU00786,276,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00787,117,15.0,None,High,75,Markdown/Clear,Health
+SKU00788,410,20.0,None,High,75,Markdown/Clear,Food
+SKU00789,65,25.0,None,High,75,Markdown/Clear,Food
+SKU00790,207,8.0,None,High,75,Markdown/Clear,Sports
+SKU00791,113,30.0,None,High,75,Markdown/Clear,Sports
+SKU00792,374,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00793,221,15.0,None,High,75,Markdown/Clear,Books
+SKU00794,442,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00795,57,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00796,473,8.0,None,High,75,Markdown/Clear,Toys
+SKU00797,96,30.0,None,High,75,Markdown/Clear,Food
+SKU00798,75,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00799,356,15.0,None,High,75,Markdown/Clear,Books
+SKU00800,228,20.0,None,High,75,Markdown/Clear,Sports
+SKU00801,309,25.0,None,High,75,Markdown/Clear,Books
+SKU00802,211,8.0,None,High,75,Markdown/Clear,Sports
+SKU00803,121,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00804,263,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00805,110,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00806,185,20.0,None,High,75,Markdown/Clear,Toys
+SKU00807,490,25.0,None,High,75,Markdown/Clear,Sports
+SKU00808,191,8.0,None,High,75,Markdown/Clear,Food
+SKU00809,226,30.0,None,High,75,Markdown/Clear,Toys
+SKU00810,351,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00811,453,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00812,390,20.0,None,High,75,Markdown/Clear,Toys
+SKU00813,431,25.0,None,High,75,Markdown/Clear,Toys
+SKU00814,354,8.0,None,High,75,Markdown/Clear,Health
+SKU00815,356,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00816,90,12.0,None,High,75,Markdown/Clear,Sports
+SKU00817,444,15.0,None,High,75,Markdown/Clear,Toys
+SKU00818,157,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00819,158,25.0,None,High,75,Markdown/Clear,Health
+SKU00820,139,8.0,None,High,75,Markdown/Clear,Health
+SKU00821,57,30.0,Low,High,75,Watch,Automotive
+SKU00822,392,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00823,224,15.0,None,High,75,Markdown/Clear,Food
+SKU00824,499,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00825,131,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00826,90,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00827,334,30.0,None,High,75,Markdown/Clear,Electronics
+SKU00828,380,12.0,None,High,75,Markdown/Clear,Health
+SKU00829,259,15.0,None,High,75,Markdown/Clear,Food
+SKU00830,77,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00831,204,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00832,449,8.0,None,High,75,Markdown/Clear,Sports
+SKU00833,130,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00834,360,12.0,None,High,75,Markdown/Clear,Health
+SKU00835,98,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00836,457,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00837,156,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00838,424,8.0,None,High,75,Markdown/Clear,Food
+SKU00839,237,30.0,None,High,75,Markdown/Clear,Books
+SKU00840,205,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00841,72,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00842,167,20.0,None,High,75,Markdown/Clear,Health
+SKU00843,216,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00844,470,8.0,None,High,75,Markdown/Clear,Books
+SKU00845,105,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00846,197,12.0,None,High,75,Markdown/Clear,Toys
+SKU00847,451,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00848,175,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00849,113,25.0,None,High,75,Markdown/Clear,Health
+SKU00850,225,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00851,80,30.0,None,High,75,Markdown/Clear,Books
+SKU00852,374,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00853,116,15.0,None,High,75,Markdown/Clear,Health
+SKU00854,204,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00855,283,25.0,None,High,75,Markdown/Clear,Beauty
+SKU00856,364,8.0,None,High,75,Markdown/Clear,Toys
+SKU00857,475,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00858,136,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00859,250,15.0,None,High,75,Markdown/Clear,Toys
+SKU00860,175,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00861,118,25.0,None,High,75,Markdown/Clear,Books
+SKU00862,446,8.0,None,High,75,Markdown/Clear,Books
+SKU00863,428,30.0,None,High,75,Markdown/Clear,Food
+SKU00864,91,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00865,432,15.0,None,High,75,Markdown/Clear,Sports
+SKU00866,434,20.0,None,High,75,Markdown/Clear,Toys
+SKU00867,160,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00868,322,8.0,None,High,75,Markdown/Clear,Books
+SKU00869,299,30.0,None,High,75,Markdown/Clear,Health
+SKU00870,333,12.0,None,High,75,Markdown/Clear,Health
+SKU00871,423,15.0,None,High,75,Markdown/Clear,Books
+SKU00872,359,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00873,295,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00874,233,8.0,None,High,75,Markdown/Clear,Sports
+SKU00875,61,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00876,203,12.0,None,High,75,Markdown/Clear,Health
+SKU00877,232,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00878,495,20.0,None,High,75,Markdown/Clear,Sports
+SKU00879,460,25.0,None,High,75,Markdown/Clear,Books
+SKU00880,486,8.0,None,High,75,Markdown/Clear,Toys
+SKU00881,224,30.0,None,High,75,Markdown/Clear,Books
+SKU00882,97,12.0,None,High,75,Markdown/Clear,Health
+SKU00883,386,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00884,112,20.0,None,High,75,Markdown/Clear,Sports
+SKU00885,374,25.0,None,High,75,Markdown/Clear,Health
+SKU00886,398,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00887,103,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00888,175,12.0,None,High,75,Markdown/Clear,Books
+SKU00889,201,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00890,106,20.0,None,High,75,Markdown/Clear,Food
+SKU00891,419,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00892,184,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00893,74,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00894,86,12.0,None,High,75,Markdown/Clear,Books
+SKU00895,438,15.0,None,High,75,Markdown/Clear,Food
+SKU00896,213,20.0,None,High,75,Markdown/Clear,Toys
+SKU00897,153,25.0,None,High,75,Markdown/Clear,Health
+SKU00898,479,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00899,407,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00900,447,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00901,110,15.0,None,High,75,Markdown/Clear,Food
+SKU00902,115,20.0,None,High,75,Markdown/Clear,Sports
+SKU00903,283,25.0,None,High,75,Markdown/Clear,Books
+SKU00904,371,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00905,233,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00906,441,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00907,76,15.0,None,High,75,Markdown/Clear,Toys
+SKU00908,344,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00909,486,25.0,None,High,75,Markdown/Clear,Toys
+SKU00910,102,8.0,None,High,75,Markdown/Clear,Food
+SKU00911,263,30.0,None,High,75,Markdown/Clear,Toys
+SKU00912,72,12.0,None,High,75,Markdown/Clear,Beauty
+SKU00913,103,15.0,None,High,75,Markdown/Clear,Food
+SKU00914,419,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00915,415,25.0,None,High,75,Markdown/Clear,Food
+SKU00916,79,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00917,313,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00918,339,12.0,None,High,75,Markdown/Clear,Toys
+SKU00919,128,15.0,None,High,75,Markdown/Clear,Health
+SKU00920,323,20.0,None,High,75,Markdown/Clear,Sports
+SKU00921,258,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00922,313,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00923,477,30.0,None,High,75,Markdown/Clear,Sports
+SKU00924,156,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00925,211,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00926,356,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00927,247,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00928,450,8.0,None,High,75,Markdown/Clear,Toys
+SKU00929,466,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00930,443,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00931,284,15.0,None,High,75,Markdown/Clear,Automotive
+SKU00932,73,20.0,None,High,75,Markdown/Clear,Clothing
+SKU00933,480,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00934,389,8.0,None,High,75,Markdown/Clear,Beauty
+SKU00935,342,30.0,None,High,75,Markdown/Clear,Health
+SKU00936,408,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00937,195,15.0,None,High,75,Markdown/Clear,Food
+SKU00938,259,20.0,None,High,75,Markdown/Clear,Books
+SKU00939,435,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00940,359,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00941,286,30.0,None,High,75,Markdown/Clear,Books
+SKU00942,312,12.0,None,High,75,Markdown/Clear,Food
+SKU00943,77,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00944,359,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00945,301,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00946,167,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00947,93,30.0,None,High,75,Markdown/Clear,Toys
+SKU00948,62,12.0,None,High,75,Markdown/Clear,Food
+SKU00949,307,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00950,187,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00951,160,25.0,None,High,75,Markdown/Clear,Books
+SKU00952,78,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00953,395,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00954,321,12.0,None,High,75,Markdown/Clear,Toys
+SKU00955,332,15.0,None,High,75,Markdown/Clear,Books
+SKU00956,224,20.0,None,High,75,Markdown/Clear,Toys
+SKU00957,470,25.0,None,High,75,Markdown/Clear,Sports
+SKU00958,82,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00959,293,30.0,None,High,75,Markdown/Clear,Toys
+SKU00960,277,12.0,None,High,75,Markdown/Clear,Automotive
+SKU00961,380,15.0,None,High,75,Markdown/Clear,Toys
+SKU00962,263,20.0,None,High,75,Markdown/Clear,Electronics
+SKU00963,462,25.0,None,High,75,Markdown/Clear,Toys
+SKU00964,254,8.0,None,High,75,Markdown/Clear,Automotive
+SKU00965,267,30.0,None,High,75,Markdown/Clear,Books
+SKU00966,168,12.0,None,High,75,Markdown/Clear,Food
+SKU00967,380,15.0,None,High,75,Markdown/Clear,Books
+SKU00968,108,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00969,75,25.0,None,High,75,Markdown/Clear,Electronics
+SKU00970,388,8.0,None,High,75,Markdown/Clear,Toys
+SKU00971,400,30.0,None,High,75,Markdown/Clear,Automotive
+SKU00972,98,12.0,None,High,75,Markdown/Clear,Food
+SKU00973,237,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00974,291,20.0,None,High,75,Markdown/Clear,Sports
+SKU00975,133,25.0,None,High,75,Markdown/Clear,Toys
+SKU00976,210,8.0,None,High,75,Markdown/Clear,Food
+SKU00977,275,30.0,None,High,75,Markdown/Clear,Health
+SKU00978,95,12.0,None,High,75,Markdown/Clear,Books
+SKU00979,111,15.0,None,High,75,Markdown/Clear,Electronics
+SKU00980,446,20.0,None,High,75,Markdown/Clear,Beauty
+SKU00981,142,25.0,None,High,75,Markdown/Clear,Automotive
+SKU00982,258,8.0,None,High,75,Markdown/Clear,Clothing
+SKU00983,400,30.0,None,High,75,Markdown/Clear,Beauty
+SKU00984,321,12.0,None,High,75,Markdown/Clear,Clothing
+SKU00985,233,15.0,None,High,75,Markdown/Clear,Books
+SKU00986,381,20.0,None,High,75,Markdown/Clear,Toys
+SKU00987,68,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00988,439,8.0,None,High,75,Markdown/Clear,Electronics
+SKU00989,108,30.0,None,High,75,Markdown/Clear,Clothing
+SKU00990,294,12.0,None,High,75,Markdown/Clear,Toys
+SKU00991,296,15.0,None,High,75,Markdown/Clear,Beauty
+SKU00992,401,20.0,None,High,75,Markdown/Clear,Automotive
+SKU00993,88,25.0,None,High,75,Markdown/Clear,Clothing
+SKU00994,186,8.0,None,High,75,Markdown/Clear,Toys
+SKU00995,150,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU00996,265,12.0,None,High,75,Markdown/Clear,Electronics
+SKU00997,104,15.0,None,High,75,Markdown/Clear,Clothing
+SKU00998,150,20.0,None,High,75,Markdown/Clear,Health
+SKU00999,413,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01000,487,8.0,None,High,75,Markdown/Clear,Sports
+SKU01001,209,30.0,None,High,75,Markdown/Clear,Toys
+SKU01002,453,12.0,None,High,75,Markdown/Clear,Sports
+SKU01003,323,15.0,None,High,75,Markdown/Clear,Health
+SKU01004,140,20.0,None,High,75,Markdown/Clear,Health
+SKU01005,163,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01006,414,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01007,364,30.0,None,High,75,Markdown/Clear,Health
+SKU01008,427,12.0,None,High,75,Markdown/Clear,Food
+SKU01009,403,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01010,305,20.0,None,High,75,Markdown/Clear,Sports
+SKU01011,198,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01012,158,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01013,376,30.0,None,High,75,Markdown/Clear,Sports
+SKU01014,454,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01015,411,15.0,None,High,75,Markdown/Clear,Sports
+SKU01016,90,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01017,461,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01018,470,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01019,332,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01020,73,12.0,None,High,75,Markdown/Clear,Health
+SKU01021,490,15.0,None,High,75,Markdown/Clear,Food
+SKU01022,297,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01023,367,25.0,None,High,75,Markdown/Clear,Food
+SKU01024,103,8.0,None,High,75,Markdown/Clear,Sports
+SKU01025,187,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01026,134,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01027,433,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01028,381,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01029,288,25.0,None,High,75,Markdown/Clear,Sports
+SKU01030,392,8.0,None,High,75,Markdown/Clear,Health
+SKU01031,239,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01032,255,12.0,None,High,75,Markdown/Clear,Food
+SKU01033,423,15.0,None,High,75,Markdown/Clear,Books
+SKU01034,71,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01035,290,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01036,475,8.0,None,High,75,Markdown/Clear,Toys
+SKU01037,304,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01038,59,12.0,None,High,75,Markdown/Clear,Toys
+SKU01039,373,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01040,172,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01041,240,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01042,130,8.0,None,High,75,Markdown/Clear,Toys
+SKU01043,145,30.0,None,High,75,Markdown/Clear,Toys
+SKU01044,50,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01045,175,15.0,None,High,75,Markdown/Clear,Health
+SKU01046,300,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01047,119,25.0,None,High,75,Markdown/Clear,Toys
+SKU01048,294,8.0,None,High,75,Markdown/Clear,Sports
+SKU01049,98,30.0,None,High,75,Markdown/Clear,Books
+SKU01050,114,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01051,149,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01052,418,20.0,None,High,75,Markdown/Clear,Food
+SKU01053,127,25.0,None,High,75,Markdown/Clear,Food
+SKU01054,211,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01055,265,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01056,426,12.0,None,High,75,Markdown/Clear,Sports
+SKU01057,388,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01058,385,20.0,None,High,75,Markdown/Clear,Food
+SKU01059,289,25.0,None,High,75,Markdown/Clear,Health
+SKU01060,253,8.0,None,High,75,Markdown/Clear,Sports
+SKU01061,138,30.0,None,High,75,Markdown/Clear,Sports
+SKU01062,200,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01063,420,15.0,None,High,75,Markdown/Clear,Sports
+SKU01064,255,20.0,None,High,75,Markdown/Clear,Toys
+SKU01065,163,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01066,259,8.0,None,High,75,Markdown/Clear,Toys
+SKU01067,175,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01068,332,12.0,None,High,75,Markdown/Clear,Health
+SKU01069,146,15.0,None,High,75,Markdown/Clear,Food
+SKU01070,383,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01071,82,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01072,263,8.0,None,High,75,Markdown/Clear,Food
+SKU01073,96,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01074,190,12.0,None,High,75,Markdown/Clear,Books
+SKU01075,128,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01076,177,20.0,None,High,75,Markdown/Clear,Books
+SKU01077,78,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01078,251,8.0,None,High,75,Markdown/Clear,Books
+SKU01079,206,30.0,None,High,75,Markdown/Clear,Food
+SKU01080,55,12.0,None,High,75,Markdown/Clear,Toys
+SKU01081,367,15.0,None,High,75,Markdown/Clear,Food
+SKU01082,482,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01083,315,25.0,None,High,75,Markdown/Clear,Health
+SKU01084,257,8.0,None,High,75,Markdown/Clear,Health
+SKU01085,71,30.0,None,High,75,Markdown/Clear,Books
+SKU01086,344,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01087,90,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01088,133,20.0,None,High,75,Markdown/Clear,Health
+SKU01089,358,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01090,183,8.0,None,High,75,Markdown/Clear,Toys
+SKU01091,122,30.0,None,High,75,Markdown/Clear,Toys
+SKU01092,149,12.0,None,High,75,Markdown/Clear,Sports
+SKU01093,114,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01094,358,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01095,484,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01096,405,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01097,498,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01098,354,12.0,None,High,75,Markdown/Clear,Health
+SKU01099,187,15.0,None,High,75,Markdown/Clear,Toys
+SKU01100,155,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01101,215,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01102,103,8.0,None,High,75,Markdown/Clear,Sports
+SKU01103,461,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01104,459,12.0,None,High,75,Markdown/Clear,Health
+SKU01105,92,15.0,None,High,75,Markdown/Clear,Toys
+SKU01106,261,20.0,None,High,75,Markdown/Clear,Toys
+SKU01107,160,25.0,None,High,75,Markdown/Clear,Books
+SKU01108,112,8.0,None,High,75,Markdown/Clear,Sports
+SKU01109,348,30.0,None,High,75,Markdown/Clear,Health
+SKU01110,252,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01111,367,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01112,387,20.0,None,High,75,Markdown/Clear,Sports
+SKU01113,387,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01114,492,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01115,436,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01116,425,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01117,258,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01118,418,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01119,86,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01120,236,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01121,107,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01122,469,12.0,None,High,75,Markdown/Clear,Food
+SKU01123,199,15.0,None,High,75,Markdown/Clear,Toys
+SKU01124,254,20.0,None,High,75,Markdown/Clear,Books
+SKU01125,110,25.0,None,High,75,Markdown/Clear,Toys
+SKU01126,256,8.0,None,High,75,Markdown/Clear,Books
+SKU01127,471,30.0,None,High,75,Markdown/Clear,Toys
+SKU01128,390,12.0,None,High,75,Markdown/Clear,Sports
+SKU01129,291,15.0,None,High,75,Markdown/Clear,Toys
+SKU01130,133,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01131,118,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01132,493,8.0,None,High,75,Markdown/Clear,Books
+SKU01133,202,30.0,None,High,75,Markdown/Clear,Health
+SKU01134,393,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01135,81,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01136,159,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01137,344,25.0,None,High,75,Markdown/Clear,Health
+SKU01138,186,8.0,None,High,75,Markdown/Clear,Food
+SKU01139,88,30.0,None,High,75,Markdown/Clear,Books
+SKU01140,475,12.0,None,High,75,Markdown/Clear,Health
+SKU01141,463,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01142,288,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01143,209,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01144,94,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01145,183,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01146,463,12.0,None,High,75,Markdown/Clear,Books
+SKU01147,475,15.0,None,High,75,Markdown/Clear,Sports
+SKU01148,164,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01149,60,25.0,None,High,75,Markdown/Clear,Books
+SKU01150,295,8.0,None,High,75,Markdown/Clear,Toys
+SKU01151,431,30.0,None,High,75,Markdown/Clear,Health
+SKU01152,224,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01153,244,15.0,None,High,75,Markdown/Clear,Food
+SKU01154,498,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01155,295,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01156,288,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01157,366,30.0,None,High,75,Markdown/Clear,Health
+SKU01158,66,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01159,354,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01160,354,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01161,66,25.0,None,High,75,Markdown/Clear,Food
+SKU01162,256,8.0,None,High,75,Markdown/Clear,Food
+SKU01163,331,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01164,205,12.0,None,High,75,Markdown/Clear,Books
+SKU01165,370,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01166,413,20.0,None,High,75,Markdown/Clear,Books
+SKU01167,388,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01168,478,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01169,230,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01170,484,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01171,71,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01172,384,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01173,98,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01174,382,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01175,497,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01176,388,12.0,None,High,75,Markdown/Clear,Sports
+SKU01177,89,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01178,181,20.0,None,High,75,Markdown/Clear,Sports
+SKU01179,284,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01180,397,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01181,256,30.0,None,High,75,Markdown/Clear,Sports
+SKU01182,185,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01183,406,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01184,258,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01185,93,25.0,None,High,75,Markdown/Clear,Health
+SKU01186,432,8.0,None,High,75,Markdown/Clear,Food
+SKU01187,491,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01188,326,12.0,None,High,75,Markdown/Clear,Food
+SKU01189,294,15.0,None,High,75,Markdown/Clear,Toys
+SKU01190,494,20.0,None,High,75,Markdown/Clear,Food
+SKU01191,65,25.0,None,High,75,Markdown/Clear,Health
+SKU01192,362,8.0,None,High,75,Markdown/Clear,Toys
+SKU01193,143,30.0,None,High,75,Markdown/Clear,Toys
+SKU01194,444,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01195,227,15.0,None,High,75,Markdown/Clear,Health
+SKU01196,195,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01197,343,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01198,271,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01199,205,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01200,460,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01201,123,15.0,None,High,75,Markdown/Clear,Books
+SKU01202,424,20.0,None,High,75,Markdown/Clear,Sports
+SKU01203,77,25.0,None,High,75,Markdown/Clear,Books
+SKU01204,112,8.0,None,High,75,Markdown/Clear,Food
+SKU01205,145,30.0,None,High,75,Markdown/Clear,Health
+SKU01206,169,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01207,439,15.0,None,High,75,Markdown/Clear,Toys
+SKU01208,281,20.0,None,High,75,Markdown/Clear,Books
+SKU01209,307,25.0,None,High,75,Markdown/Clear,Toys
+SKU01210,430,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01211,189,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01212,414,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01213,449,15.0,None,High,75,Markdown/Clear,Toys
+SKU01214,236,20.0,None,High,75,Markdown/Clear,Health
+SKU01215,463,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01216,135,8.0,None,High,75,Markdown/Clear,Books
+SKU01217,405,30.0,None,High,75,Markdown/Clear,Books
+SKU01218,404,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01219,388,15.0,None,High,75,Markdown/Clear,Food
+SKU01220,78,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01221,123,25.0,None,High,75,Markdown/Clear,Health
+SKU01222,325,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01223,188,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01224,246,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01225,100,15.0,None,High,75,Markdown/Clear,Books
+SKU01226,295,20.0,None,High,75,Markdown/Clear,Books
+SKU01227,458,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01228,444,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01229,104,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01230,477,12.0,None,High,75,Markdown/Clear,Books
+SKU01231,108,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01232,455,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01233,376,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01234,153,8.0,None,High,75,Markdown/Clear,Toys
+SKU01235,258,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01236,483,12.0,None,High,75,Markdown/Clear,Food
+SKU01237,92,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01238,271,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01239,233,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01240,482,8.0,None,High,75,Markdown/Clear,Sports
+SKU01241,75,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01242,348,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01243,78,15.0,None,High,75,Markdown/Clear,Sports
+SKU01244,258,20.0,None,High,75,Markdown/Clear,Food
+SKU01245,193,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01246,94,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01247,204,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01248,228,12.0,None,High,75,Markdown/Clear,Food
+SKU01249,313,15.0,None,High,75,Markdown/Clear,Books
+SKU01250,429,20.0,None,High,75,Markdown/Clear,Food
+SKU01251,482,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01252,452,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01253,120,30.0,None,High,75,Markdown/Clear,Food
+SKU01254,99,12.0,None,High,75,Markdown/Clear,Sports
+SKU01255,101,15.0,None,High,75,Markdown/Clear,Sports
+SKU01256,342,20.0,None,High,75,Markdown/Clear,Books
+SKU01257,285,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01258,159,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01259,109,30.0,None,High,75,Markdown/Clear,Health
+SKU01260,98,12.0,None,High,75,Markdown/Clear,Sports
+SKU01261,135,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01262,215,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01263,179,25.0,None,High,75,Markdown/Clear,Food
+SKU01264,351,8.0,None,High,75,Markdown/Clear,Books
+SKU01265,315,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01266,161,12.0,None,High,75,Markdown/Clear,Food
+SKU01267,114,15.0,None,High,75,Markdown/Clear,Health
+SKU01268,488,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01269,327,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01270,67,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01271,448,30.0,None,High,75,Markdown/Clear,Food
+SKU01272,62,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01273,197,15.0,None,High,75,Markdown/Clear,Books
+SKU01274,381,20.0,None,High,75,Markdown/Clear,Toys
+SKU01275,376,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01276,488,8.0,None,High,75,Markdown/Clear,Food
+SKU01277,394,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01278,414,12.0,None,High,75,Markdown/Clear,Books
+SKU01279,126,15.0,None,High,75,Markdown/Clear,Health
+SKU01280,144,20.0,None,High,75,Markdown/Clear,Food
+SKU01281,121,25.0,None,High,75,Markdown/Clear,Toys
+SKU01282,471,8.0,None,High,75,Markdown/Clear,Books
+SKU01283,461,30.0,None,High,75,Markdown/Clear,Toys
+SKU01284,145,12.0,None,High,75,Markdown/Clear,Toys
+SKU01285,234,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01286,436,20.0,None,High,75,Markdown/Clear,Health
+SKU01287,336,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01288,357,8.0,None,High,75,Markdown/Clear,Books
+SKU01289,303,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01290,437,12.0,None,High,75,Markdown/Clear,Sports
+SKU01291,325,15.0,None,High,75,Markdown/Clear,Health
+SKU01292,469,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01293,322,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01294,223,8.0,None,High,75,Markdown/Clear,Food
+SKU01295,160,30.0,None,High,75,Markdown/Clear,Health
+SKU01296,238,12.0,None,High,75,Markdown/Clear,Books
+SKU01297,295,15.0,None,High,75,Markdown/Clear,Food
+SKU01298,408,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01299,220,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01300,386,8.0,None,High,75,Markdown/Clear,Books
+SKU01301,250,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01302,433,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01303,357,15.0,None,High,75,Markdown/Clear,Books
+SKU01304,93,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01305,337,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01306,441,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01307,317,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01308,239,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01309,400,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01310,270,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01311,456,25.0,None,High,75,Markdown/Clear,Books
+SKU01312,151,8.0,None,High,75,Markdown/Clear,Toys
+SKU01313,249,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01314,393,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01315,112,15.0,None,High,75,Markdown/Clear,Books
+SKU01316,322,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01317,77,25.0,None,High,75,Markdown/Clear,Toys
+SKU01318,420,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01319,348,30.0,None,High,75,Markdown/Clear,Sports
+SKU01320,357,12.0,None,High,75,Markdown/Clear,Sports
+SKU01321,132,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01322,333,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01323,345,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01324,471,8.0,None,High,75,Markdown/Clear,Health
+SKU01325,233,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01326,286,12.0,None,High,75,Markdown/Clear,Toys
+SKU01327,299,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01328,453,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01329,260,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01330,244,8.0,None,High,75,Markdown/Clear,Health
+SKU01331,212,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01332,93,12.0,None,High,75,Markdown/Clear,Health
+SKU01333,389,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01334,136,20.0,None,High,75,Markdown/Clear,Health
+SKU01335,295,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01336,436,8.0,None,High,75,Markdown/Clear,Food
+SKU01337,165,30.0,None,High,75,Markdown/Clear,Toys
+SKU01338,421,12.0,None,High,75,Markdown/Clear,Health
+SKU01339,351,15.0,None,High,75,Markdown/Clear,Sports
+SKU01340,119,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01341,140,25.0,None,High,75,Markdown/Clear,Health
+SKU01342,241,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01343,394,30.0,None,High,75,Markdown/Clear,Books
+SKU01344,241,12.0,None,High,75,Markdown/Clear,Food
+SKU01345,360,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01346,286,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01347,289,25.0,None,High,75,Markdown/Clear,Sports
+SKU01348,356,8.0,None,High,75,Markdown/Clear,Books
+SKU01349,139,30.0,None,High,75,Markdown/Clear,Books
+SKU01350,497,12.0,None,High,75,Markdown/Clear,Books
+SKU01351,233,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01352,101,20.0,None,High,75,Markdown/Clear,Food
+SKU01353,327,25.0,None,High,75,Markdown/Clear,Toys
+SKU01354,370,8.0,None,High,75,Markdown/Clear,Food
+SKU01355,475,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01356,215,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01357,224,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01358,194,20.0,None,High,75,Markdown/Clear,Toys
+SKU01359,311,25.0,None,High,75,Markdown/Clear,Toys
+SKU01360,192,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01361,290,30.0,None,High,75,Markdown/Clear,Toys
+SKU01362,109,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01363,354,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01364,75,20.0,None,High,75,Markdown/Clear,Toys
+SKU01365,439,25.0,None,High,75,Markdown/Clear,Books
+SKU01366,291,8.0,None,High,75,Markdown/Clear,Books
+SKU01367,298,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01368,424,12.0,None,High,75,Markdown/Clear,Health
+SKU01369,288,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01370,452,20.0,None,High,75,Markdown/Clear,Food
+SKU01371,465,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01372,366,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01373,114,30.0,None,High,75,Markdown/Clear,Sports
+SKU01374,363,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01375,345,15.0,None,High,75,Markdown/Clear,Food
+SKU01376,395,20.0,None,High,75,Markdown/Clear,Sports
+SKU01377,308,25.0,None,High,75,Markdown/Clear,Books
+SKU01378,220,8.0,None,High,75,Markdown/Clear,Sports
+SKU01379,499,30.0,None,High,75,Markdown/Clear,Sports
+SKU01380,335,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01381,419,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01382,109,20.0,None,High,75,Markdown/Clear,Food
+SKU01383,200,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01384,171,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01385,337,30.0,None,High,75,Markdown/Clear,Toys
+SKU01386,161,12.0,None,High,75,Markdown/Clear,Food
+SKU01387,348,15.0,None,High,75,Markdown/Clear,Food
+SKU01388,386,20.0,None,High,75,Markdown/Clear,Health
+SKU01389,465,25.0,None,High,75,Markdown/Clear,Food
+SKU01390,340,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01391,417,30.0,None,High,75,Markdown/Clear,Health
+SKU01392,442,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01393,274,15.0,None,High,75,Markdown/Clear,Sports
+SKU01394,251,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01395,421,25.0,None,High,75,Markdown/Clear,Toys
+SKU01396,286,8.0,None,High,75,Markdown/Clear,Toys
+SKU01397,143,30.0,None,High,75,Markdown/Clear,Health
+SKU01398,275,12.0,None,High,75,Markdown/Clear,Food
+SKU01399,134,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01400,440,20.0,None,High,75,Markdown/Clear,Books
+SKU01401,103,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01402,236,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01403,413,30.0,None,High,75,Markdown/Clear,Health
+SKU01404,382,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01405,364,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01406,240,20.0,None,High,75,Markdown/Clear,Books
+SKU01407,190,25.0,None,High,75,Markdown/Clear,Food
+SKU01408,302,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01409,57,30.0,Low,High,75,Watch,Toys
+SKU01410,333,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01411,200,15.0,None,High,75,Markdown/Clear,Health
+SKU01412,173,20.0,None,High,75,Markdown/Clear,Health
+SKU01413,277,25.0,None,High,75,Markdown/Clear,Food
+SKU01414,155,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01415,360,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01416,375,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01417,455,15.0,None,High,75,Markdown/Clear,Sports
+SKU01418,487,20.0,None,High,75,Markdown/Clear,Sports
+SKU01419,190,25.0,None,High,75,Markdown/Clear,Books
+SKU01420,229,8.0,None,High,75,Markdown/Clear,Health
+SKU01421,87,30.0,None,High,75,Markdown/Clear,Books
+SKU01422,197,12.0,None,High,75,Markdown/Clear,Sports
+SKU01423,387,15.0,None,High,75,Markdown/Clear,Books
+SKU01424,327,20.0,None,High,75,Markdown/Clear,Sports
+SKU01425,339,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01426,155,8.0,None,High,75,Markdown/Clear,Books
+SKU01427,196,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01428,390,12.0,None,High,75,Markdown/Clear,Toys
+SKU01429,337,15.0,None,High,75,Markdown/Clear,Sports
+SKU01430,179,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01431,401,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01432,156,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01433,424,30.0,None,High,75,Markdown/Clear,Books
+SKU01434,416,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01435,96,15.0,None,High,75,Markdown/Clear,Food
+SKU01436,155,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01437,459,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01438,220,8.0,None,High,75,Markdown/Clear,Sports
+SKU01439,244,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01440,499,12.0,None,High,75,Markdown/Clear,Food
+SKU01441,231,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01442,333,20.0,None,High,75,Markdown/Clear,Food
+SKU01443,347,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01444,352,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01445,234,30.0,None,High,75,Markdown/Clear,Food
+SKU01446,90,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01447,138,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01448,401,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01449,109,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01450,173,8.0,None,High,75,Markdown/Clear,Toys
+SKU01451,435,30.0,None,High,75,Markdown/Clear,Health
+SKU01452,334,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01453,389,15.0,None,High,75,Markdown/Clear,Books
+SKU01454,159,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01455,265,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01456,381,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01457,85,30.0,None,High,75,Markdown/Clear,Health
+SKU01458,255,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01459,266,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01460,213,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01461,244,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01462,236,8.0,None,High,75,Markdown/Clear,Books
+SKU01463,153,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01464,445,12.0,None,High,75,Markdown/Clear,Books
+SKU01465,366,15.0,None,High,75,Markdown/Clear,Health
+SKU01466,359,20.0,None,High,75,Markdown/Clear,Sports
+SKU01467,158,25.0,None,High,75,Markdown/Clear,Sports
+SKU01468,402,8.0,None,High,75,Markdown/Clear,Sports
+SKU01469,132,30.0,None,High,75,Markdown/Clear,Food
+SKU01470,473,12.0,None,High,75,Markdown/Clear,Books
+SKU01471,182,15.0,None,High,75,Markdown/Clear,Food
+SKU01472,144,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01473,374,25.0,None,High,75,Markdown/Clear,Food
+SKU01474,261,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01475,103,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01476,103,12.0,None,High,75,Markdown/Clear,Food
+SKU01477,95,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01478,486,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01479,462,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01480,78,8.0,None,High,75,Markdown/Clear,Books
+SKU01481,237,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01482,122,12.0,None,High,75,Markdown/Clear,Books
+SKU01483,151,15.0,None,High,75,Markdown/Clear,Food
+SKU01484,446,20.0,None,High,75,Markdown/Clear,Food
+SKU01485,160,25.0,None,High,75,Markdown/Clear,Toys
+SKU01486,260,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01487,395,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01488,126,12.0,None,High,75,Markdown/Clear,Toys
+SKU01489,489,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01490,317,20.0,None,High,75,Markdown/Clear,Sports
+SKU01491,203,25.0,None,High,75,Markdown/Clear,Sports
+SKU01492,343,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01493,497,30.0,None,High,75,Markdown/Clear,Books
+SKU01494,269,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01495,101,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01496,316,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01497,445,25.0,None,High,75,Markdown/Clear,Food
+SKU01498,476,8.0,None,High,75,Markdown/Clear,Food
+SKU01499,95,30.0,None,High,75,Markdown/Clear,Toys
+SKU01500,138,12.0,None,High,75,Markdown/Clear,Toys
+SKU01501,124,15.0,None,High,75,Markdown/Clear,Health
+SKU01502,415,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01503,328,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01504,75,8.0,None,High,75,Markdown/Clear,Sports
+SKU01505,402,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01506,397,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01507,142,15.0,None,High,75,Markdown/Clear,Toys
+SKU01508,407,20.0,None,High,75,Markdown/Clear,Sports
+SKU01509,295,25.0,None,High,75,Markdown/Clear,Health
+SKU01510,327,8.0,None,High,75,Markdown/Clear,Food
+SKU01511,379,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01512,430,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01513,210,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01514,467,20.0,None,High,75,Markdown/Clear,Sports
+SKU01515,476,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01516,120,8.0,None,High,75,Markdown/Clear,Books
+SKU01517,340,30.0,None,High,75,Markdown/Clear,Toys
+SKU01518,483,12.0,None,High,75,Markdown/Clear,Food
+SKU01519,383,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01520,300,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01521,66,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01522,88,8.0,None,High,75,Markdown/Clear,Sports
+SKU01523,157,30.0,None,High,75,Markdown/Clear,Health
+SKU01524,139,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01525,432,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01526,119,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01527,135,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01528,144,8.0,None,High,75,Markdown/Clear,Sports
+SKU01529,82,30.0,None,High,75,Markdown/Clear,Health
+SKU01530,167,12.0,None,High,75,Markdown/Clear,Toys
+SKU01531,442,15.0,None,High,75,Markdown/Clear,Sports
+SKU01532,210,20.0,None,High,75,Markdown/Clear,Food
+SKU01533,307,25.0,None,High,75,Markdown/Clear,Health
+SKU01534,487,8.0,None,High,75,Markdown/Clear,Toys
+SKU01535,220,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01536,235,12.0,None,High,75,Markdown/Clear,Books
+SKU01537,117,15.0,None,High,75,Markdown/Clear,Health
+SKU01538,499,20.0,None,High,75,Markdown/Clear,Food
+SKU01539,74,25.0,None,High,75,Markdown/Clear,Food
+SKU01540,300,8.0,None,High,75,Markdown/Clear,Books
+SKU01541,273,30.0,None,High,75,Markdown/Clear,Books
+SKU01542,314,12.0,None,High,75,Markdown/Clear,Food
+SKU01543,264,15.0,None,High,75,Markdown/Clear,Books
+SKU01544,492,20.0,None,High,75,Markdown/Clear,Health
+SKU01545,427,25.0,None,High,75,Markdown/Clear,Sports
+SKU01546,172,8.0,None,High,75,Markdown/Clear,Toys
+SKU01547,397,30.0,None,High,75,Markdown/Clear,Health
+SKU01548,445,12.0,None,High,75,Markdown/Clear,Food
+SKU01549,441,15.0,None,High,75,Markdown/Clear,Food
+SKU01550,437,20.0,None,High,75,Markdown/Clear,Food
+SKU01551,94,25.0,None,High,75,Markdown/Clear,Toys
+SKU01552,382,8.0,None,High,75,Markdown/Clear,Health
+SKU01553,383,30.0,None,High,75,Markdown/Clear,Food
+SKU01554,376,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01555,457,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01556,257,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01557,61,25.0,None,High,75,Markdown/Clear,Health
+SKU01558,203,8.0,None,High,75,Markdown/Clear,Books
+SKU01559,426,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01560,476,12.0,None,High,75,Markdown/Clear,Books
+SKU01561,190,15.0,None,High,75,Markdown/Clear,Toys
+SKU01562,493,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01563,105,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01564,351,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01565,441,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01566,143,12.0,None,High,75,Markdown/Clear,Toys
+SKU01567,197,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01568,350,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01569,252,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01570,75,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01571,477,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01572,100,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01573,489,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01574,269,20.0,None,High,75,Markdown/Clear,Books
+SKU01575,452,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01576,302,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01577,148,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01578,129,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01579,199,15.0,None,High,75,Markdown/Clear,Toys
+SKU01580,222,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01581,263,25.0,None,High,75,Markdown/Clear,Food
+SKU01582,114,8.0,None,High,75,Markdown/Clear,Food
+SKU01583,392,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01584,401,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01585,392,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01586,362,20.0,None,High,75,Markdown/Clear,Food
+SKU01587,477,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01588,217,8.0,None,High,75,Markdown/Clear,Food
+SKU01589,99,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01590,396,12.0,None,High,75,Markdown/Clear,Toys
+SKU01591,336,15.0,None,High,75,Markdown/Clear,Food
+SKU01592,161,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01593,150,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01594,474,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01595,346,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01596,439,12.0,None,High,75,Markdown/Clear,Sports
+SKU01597,371,15.0,None,High,75,Markdown/Clear,Books
+SKU01598,68,20.0,None,High,75,Markdown/Clear,Health
+SKU01599,239,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01600,478,8.0,None,High,75,Markdown/Clear,Books
+SKU01601,275,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01602,260,12.0,None,High,75,Markdown/Clear,Toys
+SKU01603,91,15.0,None,High,75,Markdown/Clear,Toys
+SKU01604,385,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01605,394,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01606,171,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01607,88,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01608,79,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01609,53,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01610,158,20.0,None,High,75,Markdown/Clear,Food
+SKU01611,258,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01612,118,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01613,160,30.0,None,High,75,Markdown/Clear,Food
+SKU01614,158,12.0,None,High,75,Markdown/Clear,Toys
+SKU01615,116,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01616,148,20.0,None,High,75,Markdown/Clear,Health
+SKU01617,317,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01618,248,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01619,109,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01620,369,12.0,None,High,75,Markdown/Clear,Sports
+SKU01621,255,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01622,272,20.0,None,High,75,Markdown/Clear,Sports
+SKU01623,285,25.0,None,High,75,Markdown/Clear,Sports
+SKU01624,202,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01625,244,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01626,374,12.0,None,High,75,Markdown/Clear,Books
+SKU01627,493,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01628,64,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01629,232,25.0,None,High,75,Markdown/Clear,Toys
+SKU01630,79,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01631,160,30.0,None,High,75,Markdown/Clear,Health
+SKU01632,322,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01633,59,15.0,None,High,75,Markdown/Clear,Food
+SKU01634,55,20.0,None,High,75,Markdown/Clear,Health
+SKU01635,334,25.0,None,High,75,Markdown/Clear,Toys
+SKU01636,201,8.0,None,High,75,Markdown/Clear,Toys
+SKU01637,436,30.0,None,High,75,Markdown/Clear,Toys
+SKU01638,127,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01639,70,15.0,None,High,75,Markdown/Clear,Food
+SKU01640,377,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01641,376,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01642,240,8.0,None,High,75,Markdown/Clear,Toys
+SKU01643,84,30.0,None,High,75,Markdown/Clear,Sports
+SKU01644,332,12.0,None,High,75,Markdown/Clear,Food
+SKU01645,136,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01646,422,20.0,None,High,75,Markdown/Clear,Toys
+SKU01647,214,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01648,438,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01649,495,30.0,None,High,75,Markdown/Clear,Toys
+SKU01650,496,12.0,None,High,75,Markdown/Clear,Books
+SKU01651,165,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01652,255,20.0,None,High,75,Markdown/Clear,Toys
+SKU01653,320,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01654,128,8.0,None,High,75,Markdown/Clear,Toys
+SKU01655,465,30.0,None,High,75,Markdown/Clear,Toys
+SKU01656,50,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01657,241,15.0,None,High,75,Markdown/Clear,Food
+SKU01658,441,20.0,None,High,75,Markdown/Clear,Books
+SKU01659,258,25.0,None,High,75,Markdown/Clear,Books
+SKU01660,143,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01661,294,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01662,355,12.0,None,High,75,Markdown/Clear,Sports
+SKU01663,179,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01664,399,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01665,118,25.0,None,High,75,Markdown/Clear,Toys
+SKU01666,250,8.0,None,High,75,Markdown/Clear,Food
+SKU01667,371,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01668,263,12.0,None,High,75,Markdown/Clear,Sports
+SKU01669,206,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01670,376,20.0,None,High,75,Markdown/Clear,Food
+SKU01671,265,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01672,220,8.0,None,High,75,Markdown/Clear,Toys
+SKU01673,155,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01674,119,12.0,None,High,75,Markdown/Clear,Books
+SKU01675,162,15.0,None,High,75,Markdown/Clear,Books
+SKU01676,231,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01677,344,25.0,None,High,75,Markdown/Clear,Food
+SKU01678,456,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01679,299,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01680,372,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01681,155,15.0,None,High,75,Markdown/Clear,Books
+SKU01682,242,20.0,None,High,75,Markdown/Clear,Sports
+SKU01683,419,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01684,300,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01685,233,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01686,460,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01687,231,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01688,234,20.0,None,High,75,Markdown/Clear,Sports
+SKU01689,335,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01690,474,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01691,80,30.0,None,High,75,Markdown/Clear,Toys
+SKU01692,343,12.0,None,High,75,Markdown/Clear,Food
+SKU01693,327,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01694,106,20.0,None,High,75,Markdown/Clear,Health
+SKU01695,163,25.0,None,High,75,Markdown/Clear,Food
+SKU01696,470,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01697,268,30.0,None,High,75,Markdown/Clear,Sports
+SKU01698,428,12.0,None,High,75,Markdown/Clear,Books
+SKU01699,75,15.0,None,High,75,Markdown/Clear,Health
+SKU01700,220,20.0,None,High,75,Markdown/Clear,Sports
+SKU01701,72,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01702,351,8.0,None,High,75,Markdown/Clear,Food
+SKU01703,51,30.0,Low,High,75,Watch,Food
+SKU01704,375,12.0,None,High,75,Markdown/Clear,Toys
+SKU01705,487,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01706,439,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01707,72,25.0,None,High,75,Markdown/Clear,Food
+SKU01708,76,8.0,None,High,75,Markdown/Clear,Toys
+SKU01709,158,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01710,118,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01711,427,15.0,None,High,75,Markdown/Clear,Books
+SKU01712,168,20.0,None,High,75,Markdown/Clear,Books
+SKU01713,128,25.0,None,High,75,Markdown/Clear,Toys
+SKU01714,83,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01715,200,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01716,81,12.0,None,High,75,Markdown/Clear,Books
+SKU01717,440,15.0,None,High,75,Markdown/Clear,Sports
+SKU01718,152,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01719,277,25.0,None,High,75,Markdown/Clear,Electronics
+SKU01720,219,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01721,81,30.0,None,High,75,Markdown/Clear,Books
+SKU01722,258,12.0,None,High,75,Markdown/Clear,Toys
+SKU01723,179,15.0,None,High,75,Markdown/Clear,Health
+SKU01724,320,20.0,None,High,75,Markdown/Clear,Health
+SKU01725,327,25.0,None,High,75,Markdown/Clear,Food
+SKU01726,150,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01727,90,30.0,None,High,75,Markdown/Clear,Food
+SKU01728,415,12.0,None,High,75,Markdown/Clear,Health
+SKU01729,179,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01730,186,20.0,None,High,75,Markdown/Clear,Food
+SKU01731,166,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01732,252,8.0,None,High,75,Markdown/Clear,Sports
+SKU01733,232,30.0,None,High,75,Markdown/Clear,Food
+SKU01734,323,12.0,None,High,75,Markdown/Clear,Books
+SKU01735,131,15.0,None,High,75,Markdown/Clear,Health
+SKU01736,482,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01737,425,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01738,254,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01739,296,30.0,None,High,75,Markdown/Clear,Health
+SKU01740,75,12.0,None,High,75,Markdown/Clear,Food
+SKU01741,223,15.0,None,High,75,Markdown/Clear,Toys
+SKU01742,180,20.0,None,High,75,Markdown/Clear,Health
+SKU01743,324,25.0,None,High,75,Markdown/Clear,Books
+SKU01744,233,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01745,104,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01746,405,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01747,457,15.0,None,High,75,Markdown/Clear,Sports
+SKU01748,178,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01749,167,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01750,397,8.0,None,High,75,Markdown/Clear,Electronics
+SKU01751,203,30.0,None,High,75,Markdown/Clear,Books
+SKU01752,75,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01753,485,15.0,None,High,75,Markdown/Clear,Sports
+SKU01754,447,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01755,267,25.0,None,High,75,Markdown/Clear,Books
+SKU01756,127,8.0,None,High,75,Markdown/Clear,Health
+SKU01757,198,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01758,115,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01759,386,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01760,236,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01761,317,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01762,388,8.0,None,High,75,Markdown/Clear,Toys
+SKU01763,405,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01764,229,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01765,120,15.0,None,High,75,Markdown/Clear,Health
+SKU01766,133,20.0,None,High,75,Markdown/Clear,Toys
+SKU01767,184,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01768,192,8.0,None,High,75,Markdown/Clear,Food
+SKU01769,72,30.0,None,High,75,Markdown/Clear,Sports
+SKU01770,320,12.0,None,High,75,Markdown/Clear,Health
+SKU01771,203,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01772,426,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01773,168,25.0,None,High,75,Markdown/Clear,Books
+SKU01774,315,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01775,218,30.0,None,High,75,Markdown/Clear,Food
+SKU01776,194,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01777,317,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01778,403,20.0,None,High,75,Markdown/Clear,Sports
+SKU01779,387,25.0,None,High,75,Markdown/Clear,Toys
+SKU01780,61,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01781,441,30.0,None,High,75,Markdown/Clear,Books
+SKU01782,490,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01783,57,15.0,None,High,75,Markdown/Clear,Books
+SKU01784,261,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01785,289,25.0,None,High,75,Markdown/Clear,Books
+SKU01786,285,8.0,None,High,75,Markdown/Clear,Toys
+SKU01787,265,30.0,None,High,75,Markdown/Clear,Books
+SKU01788,178,12.0,None,High,75,Markdown/Clear,Health
+SKU01789,295,15.0,None,High,75,Markdown/Clear,Food
+SKU01790,379,20.0,None,High,75,Markdown/Clear,Food
+SKU01791,194,25.0,None,High,75,Markdown/Clear,Health
+SKU01792,457,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01793,297,30.0,None,High,75,Markdown/Clear,Health
+SKU01794,431,12.0,None,High,75,Markdown/Clear,Toys
+SKU01795,492,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01796,293,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01797,123,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01798,283,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01799,275,30.0,None,High,75,Markdown/Clear,Sports
+SKU01800,113,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01801,262,15.0,None,High,75,Markdown/Clear,Toys
+SKU01802,466,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01803,484,25.0,None,High,75,Markdown/Clear,Food
+SKU01804,221,8.0,None,High,75,Markdown/Clear,Toys
+SKU01805,226,30.0,None,High,75,Markdown/Clear,Toys
+SKU01806,267,12.0,None,High,75,Markdown/Clear,Health
+SKU01807,62,15.0,None,High,75,Markdown/Clear,Toys
+SKU01808,91,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01809,491,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01810,257,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01811,358,30.0,None,High,75,Markdown/Clear,Health
+SKU01812,161,12.0,None,High,75,Markdown/Clear,Sports
+SKU01813,231,15.0,None,High,75,Markdown/Clear,Automotive
+SKU01814,308,20.0,None,High,75,Markdown/Clear,Sports
+SKU01815,299,25.0,None,High,75,Markdown/Clear,Food
+SKU01816,131,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01817,176,30.0,None,High,75,Markdown/Clear,Sports
+SKU01818,200,12.0,None,High,75,Markdown/Clear,Toys
+SKU01819,320,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01820,382,20.0,None,High,75,Markdown/Clear,Health
+SKU01821,192,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01822,465,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01823,114,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01824,494,12.0,None,High,75,Markdown/Clear,Food
+SKU01825,200,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01826,358,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01827,61,25.0,None,High,75,Markdown/Clear,Toys
+SKU01828,333,8.0,None,High,75,Markdown/Clear,Health
+SKU01829,415,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01830,127,12.0,None,High,75,Markdown/Clear,Books
+SKU01831,373,15.0,None,High,75,Markdown/Clear,Books
+SKU01832,154,20.0,None,High,75,Markdown/Clear,Food
+SKU01833,123,25.0,None,High,75,Markdown/Clear,Books
+SKU01834,215,8.0,None,High,75,Markdown/Clear,Sports
+SKU01835,356,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01836,400,12.0,None,High,75,Markdown/Clear,Food
+SKU01837,330,15.0,None,High,75,Markdown/Clear,Sports
+SKU01838,150,20.0,None,High,75,Markdown/Clear,Health
+SKU01839,358,25.0,None,High,75,Markdown/Clear,Books
+SKU01840,112,8.0,None,High,75,Markdown/Clear,Food
+SKU01841,398,30.0,None,High,75,Markdown/Clear,Sports
+SKU01842,219,12.0,None,High,75,Markdown/Clear,Health
+SKU01843,403,15.0,None,High,75,Markdown/Clear,Books
+SKU01844,417,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01845,223,25.0,None,High,75,Markdown/Clear,Toys
+SKU01846,139,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01847,199,30.0,None,High,75,Markdown/Clear,Health
+SKU01848,373,12.0,None,High,75,Markdown/Clear,Health
+SKU01849,98,15.0,None,High,75,Markdown/Clear,Food
+SKU01850,416,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01851,147,25.0,None,High,75,Markdown/Clear,Toys
+SKU01852,429,8.0,None,High,75,Markdown/Clear,Toys
+SKU01853,76,30.0,None,High,75,Markdown/Clear,Sports
+SKU01854,263,12.0,None,High,75,Markdown/Clear,Sports
+SKU01855,125,15.0,None,High,75,Markdown/Clear,Sports
+SKU01856,245,20.0,None,High,75,Markdown/Clear,Books
+SKU01857,133,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01858,65,8.0,None,High,75,Markdown/Clear,Sports
+SKU01859,86,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01860,94,12.0,None,High,75,Markdown/Clear,Sports
+SKU01861,68,15.0,None,High,75,Markdown/Clear,Food
+SKU01862,166,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01863,243,25.0,None,High,75,Markdown/Clear,Food
+SKU01864,91,8.0,None,High,75,Markdown/Clear,Food
+SKU01865,427,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01866,177,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01867,242,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01868,262,20.0,None,High,75,Markdown/Clear,Food
+SKU01869,118,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01870,357,8.0,None,High,75,Markdown/Clear,Sports
+SKU01871,220,30.0,None,High,75,Markdown/Clear,Sports
+SKU01872,210,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01873,270,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01874,427,20.0,None,High,75,Markdown/Clear,Sports
+SKU01875,434,25.0,None,High,75,Markdown/Clear,Food
+SKU01876,141,8.0,None,High,75,Markdown/Clear,Food
+SKU01877,231,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01878,67,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01879,142,15.0,None,High,75,Markdown/Clear,Sports
+SKU01880,286,20.0,None,High,75,Markdown/Clear,Food
+SKU01881,276,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01882,176,8.0,None,High,75,Markdown/Clear,Health
+SKU01883,221,30.0,None,High,75,Markdown/Clear,Health
+SKU01884,488,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01885,324,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01886,167,20.0,None,High,75,Markdown/Clear,Books
+SKU01887,364,25.0,None,High,75,Markdown/Clear,Health
+SKU01888,332,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01889,111,30.0,None,High,75,Markdown/Clear,Sports
+SKU01890,374,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01891,85,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01892,246,20.0,None,High,75,Markdown/Clear,Toys
+SKU01893,245,25.0,None,High,75,Markdown/Clear,Books
+SKU01894,374,8.0,None,High,75,Markdown/Clear,Food
+SKU01895,260,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01896,335,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01897,258,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01898,461,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01899,260,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01900,262,8.0,None,High,75,Markdown/Clear,Toys
+SKU01901,96,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01902,417,12.0,None,High,75,Markdown/Clear,Food
+SKU01903,216,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01904,121,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01905,451,25.0,None,High,75,Markdown/Clear,Toys
+SKU01906,250,8.0,None,High,75,Markdown/Clear,Sports
+SKU01907,131,30.0,None,High,75,Markdown/Clear,Clothing
+SKU01908,497,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01909,208,15.0,None,High,75,Markdown/Clear,Toys
+SKU01910,360,20.0,None,High,75,Markdown/Clear,Sports
+SKU01911,184,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01912,157,8.0,None,High,75,Markdown/Clear,Beauty
+SKU01913,408,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01914,245,12.0,None,High,75,Markdown/Clear,Automotive
+SKU01915,247,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01916,431,20.0,None,High,75,Markdown/Clear,Electronics
+SKU01917,406,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01918,263,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01919,116,30.0,None,High,75,Markdown/Clear,Books
+SKU01920,318,12.0,None,High,75,Markdown/Clear,Food
+SKU01921,280,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01922,183,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01923,268,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01924,73,8.0,None,High,75,Markdown/Clear,Toys
+SKU01925,308,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01926,225,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01927,157,15.0,None,High,75,Markdown/Clear,Sports
+SKU01928,351,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01929,322,25.0,None,High,75,Markdown/Clear,Food
+SKU01930,298,8.0,None,High,75,Markdown/Clear,Food
+SKU01931,357,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01932,416,12.0,None,High,75,Markdown/Clear,Health
+SKU01933,491,15.0,None,High,75,Markdown/Clear,Toys
+SKU01934,133,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01935,230,25.0,None,High,75,Markdown/Clear,Health
+SKU01936,89,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01937,425,30.0,None,High,75,Markdown/Clear,Food
+SKU01938,431,12.0,None,High,75,Markdown/Clear,Clothing
+SKU01939,443,15.0,None,High,75,Markdown/Clear,Clothing
+SKU01940,124,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01941,346,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01942,275,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01943,248,30.0,None,High,75,Markdown/Clear,Electronics
+SKU01944,444,12.0,None,High,75,Markdown/Clear,Sports
+SKU01945,215,15.0,None,High,75,Markdown/Clear,Sports
+SKU01946,98,20.0,None,High,75,Markdown/Clear,Health
+SKU01947,163,25.0,None,High,75,Markdown/Clear,Books
+SKU01948,215,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01949,187,30.0,None,High,75,Markdown/Clear,Beauty
+SKU01950,349,12.0,None,High,75,Markdown/Clear,Beauty
+SKU01951,359,15.0,None,High,75,Markdown/Clear,Sports
+SKU01952,51,20.0,None,High,75,Markdown/Clear,Toys
+SKU01953,374,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01954,197,8.0,None,High,75,Markdown/Clear,Sports
+SKU01955,460,30.0,None,High,75,Markdown/Clear,Health
+SKU01956,96,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01957,275,15.0,None,High,75,Markdown/Clear,Beauty
+SKU01958,400,20.0,None,High,75,Markdown/Clear,Automotive
+SKU01959,398,25.0,None,High,75,Markdown/Clear,Beauty
+SKU01960,88,8.0,None,High,75,Markdown/Clear,Toys
+SKU01961,78,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01962,252,12.0,None,High,75,Markdown/Clear,Food
+SKU01963,88,15.0,None,High,75,Markdown/Clear,Sports
+SKU01964,115,20.0,None,High,75,Markdown/Clear,Food
+SKU01965,496,25.0,None,High,75,Markdown/Clear,Sports
+SKU01966,461,8.0,None,High,75,Markdown/Clear,Automotive
+SKU01967,133,30.0,None,High,75,Markdown/Clear,Toys
+SKU01968,259,12.0,None,High,75,Markdown/Clear,Toys
+SKU01969,314,15.0,None,High,75,Markdown/Clear,Sports
+SKU01970,279,20.0,None,High,75,Markdown/Clear,Beauty
+SKU01971,134,25.0,None,High,75,Markdown/Clear,Toys
+SKU01972,436,8.0,None,High,75,Markdown/Clear,Clothing
+SKU01973,395,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01974,303,12.0,None,High,75,Markdown/Clear,Health
+SKU01975,306,15.0,None,High,75,Markdown/Clear,Food
+SKU01976,485,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01977,284,25.0,None,High,75,Markdown/Clear,Automotive
+SKU01978,204,8.0,None,High,75,Markdown/Clear,Books
+SKU01979,367,30.0,None,High,75,Markdown/Clear,Health
+SKU01980,313,12.0,None,High,75,Markdown/Clear,Food
+SKU01981,70,15.0,None,High,75,Markdown/Clear,Toys
+SKU01982,390,20.0,None,High,75,Markdown/Clear,Books
+SKU01983,313,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01984,320,8.0,None,High,75,Markdown/Clear,Health
+SKU01985,334,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01986,391,12.0,None,High,75,Markdown/Clear,Electronics
+SKU01987,281,15.0,None,High,75,Markdown/Clear,Electronics
+SKU01988,481,20.0,None,High,75,Markdown/Clear,Clothing
+SKU01989,484,25.0,None,High,75,Markdown/Clear,Clothing
+SKU01990,91,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01991,410,30.0,None,High,75,Markdown/Clear,Automotive
+SKU01992,371,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU01993,178,15.0,None,High,75,Markdown/Clear,Health
+SKU01994,485,20.0,None,High,75,Markdown/Clear,Toys
+SKU01995,55,25.0,None,High,75,Markdown/Clear,Sports
+SKU01996,115,8.0,None,High,75,Markdown/Clear,Toys
+SKU01997,253,30.0,None,High,75,Markdown/Clear,Books
+SKU01998,152,12.0,None,High,75,Markdown/Clear,Health
+SKU01999,498,15.0,None,High,75,Markdown/Clear,Beauty
+SKU02000,166,20.0,None,High,75,Markdown/Clear,Electronics
+SKU02001,95,25.0,None,High,75,Markdown/Clear,Beauty
+SKU02002,350,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02003,84,30.0,None,High,75,Markdown/Clear,Health
+SKU02004,108,12.0,None,High,75,Markdown/Clear,Automotive
+SKU02005,256,15.0,None,High,75,Markdown/Clear,Books
+SKU02006,242,20.0,None,High,75,Markdown/Clear,Beauty
+SKU02007,348,25.0,None,High,75,Markdown/Clear,Beauty
+SKU02008,443,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02009,227,30.0,None,High,75,Markdown/Clear,Health
+SKU02010,88,12.0,None,High,75,Markdown/Clear,Sports
+SKU02011,75,15.0,None,High,75,Markdown/Clear,Toys
+SKU02012,128,20.0,None,High,75,Markdown/Clear,Toys
+SKU02013,181,25.0,None,High,75,Markdown/Clear,Books
+SKU02014,337,8.0,None,High,75,Markdown/Clear,Beauty
+SKU02015,105,30.0,None,High,75,Markdown/Clear,Electronics
+SKU02016,488,12.0,None,High,75,Markdown/Clear,Food
+SKU02017,374,15.0,None,High,75,Markdown/Clear,Health
+SKU02018,405,20.0,None,High,75,Markdown/Clear,Clothing
+SKU02019,229,25.0,None,High,75,Markdown/Clear,Electronics
+SKU02020,218,8.0,None,High,75,Markdown/Clear,Automotive
+SKU02021,70,30.0,None,High,75,Markdown/Clear,Health
+SKU02022,88,12.0,None,High,75,Markdown/Clear,Health
+SKU02023,385,15.0,None,High,75,Markdown/Clear,Toys
+SKU02024,150,20.0,None,High,75,Markdown/Clear,Sports
+SKU02025,287,25.0,None,High,75,Markdown/Clear,Electronics
+SKU02026,408,8.0,None,High,75,Markdown/Clear,Automotive
+SKU02027,292,30.0,None,High,75,Markdown/Clear,Beauty
+SKU02028,437,12.0,None,High,75,Markdown/Clear,Health
+SKU02029,296,15.0,None,High,75,Markdown/Clear,Health
+SKU02030,386,20.0,None,High,75,Markdown/Clear,Beauty
+SKU02031,386,25.0,None,High,75,Markdown/Clear,Toys
+SKU02032,482,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02033,58,30.0,Low,High,75,Watch,Home & Garden
+SKU02034,430,12.0,None,High,75,Markdown/Clear,Health
+SKU02035,439,15.0,None,High,75,Markdown/Clear,Automotive
+SKU02036,482,20.0,None,High,75,Markdown/Clear,Food
+SKU02037,436,25.0,None,High,75,Markdown/Clear,Health
+SKU02038,151,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02039,304,30.0,None,High,75,Markdown/Clear,Sports
+SKU02040,245,12.0,None,High,75,Markdown/Clear,Electronics
+SKU02041,342,15.0,None,High,75,Markdown/Clear,Toys
+SKU02042,423,20.0,None,High,75,Markdown/Clear,Health
+SKU02043,338,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02044,180,8.0,None,High,75,Markdown/Clear,Sports
+SKU02045,442,30.0,None,High,75,Markdown/Clear,Sports
+SKU02046,52,12.0,None,High,75,Markdown/Clear,Clothing
+SKU02047,228,15.0,None,High,75,Markdown/Clear,Clothing
+SKU02048,212,20.0,None,High,75,Markdown/Clear,Food
+SKU02049,179,25.0,None,High,75,Markdown/Clear,Health
+SKU02050,221,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02051,107,30.0,None,High,75,Markdown/Clear,Books
+SKU02052,220,12.0,None,High,75,Markdown/Clear,Electronics
+SKU02053,120,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02054,372,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02055,362,25.0,None,High,75,Markdown/Clear,Sports
+SKU02056,348,8.0,None,High,75,Markdown/Clear,Food
+SKU02057,347,30.0,None,High,75,Markdown/Clear,Health
+SKU02058,60,12.0,None,High,75,Markdown/Clear,Electronics
+SKU02059,134,15.0,None,High,75,Markdown/Clear,Electronics
+SKU02060,95,20.0,None,High,75,Markdown/Clear,Automotive
+SKU02061,236,25.0,None,High,75,Markdown/Clear,Clothing
+SKU02062,313,8.0,None,High,75,Markdown/Clear,Beauty
+SKU02063,330,30.0,None,High,75,Markdown/Clear,Sports
+SKU02064,89,12.0,None,High,75,Markdown/Clear,Food
+SKU02065,239,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02066,462,20.0,None,High,75,Markdown/Clear,Toys
+SKU02067,278,25.0,None,High,75,Markdown/Clear,Sports
+SKU02068,328,8.0,None,High,75,Markdown/Clear,Toys
+SKU02069,121,30.0,None,High,75,Markdown/Clear,Electronics
+SKU02070,226,12.0,None,High,75,Markdown/Clear,Clothing
+SKU02071,318,15.0,None,High,75,Markdown/Clear,Automotive
+SKU02072,402,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02073,331,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02074,203,8.0,None,High,75,Markdown/Clear,Automotive
+SKU02075,435,30.0,None,High,75,Markdown/Clear,Sports
+SKU02076,155,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02077,474,15.0,None,High,75,Markdown/Clear,Toys
+SKU02078,296,20.0,None,High,75,Markdown/Clear,Clothing
+SKU02079,199,25.0,None,High,75,Markdown/Clear,Books
+SKU02080,189,8.0,None,High,75,Markdown/Clear,Beauty
+SKU02081,200,30.0,None,High,75,Markdown/Clear,Books
+SKU02082,138,12.0,None,High,75,Markdown/Clear,Toys
+SKU02083,232,15.0,None,High,75,Markdown/Clear,Health
+SKU02084,458,20.0,None,High,75,Markdown/Clear,Toys
+SKU02085,235,25.0,None,High,75,Markdown/Clear,Health
+SKU02086,169,8.0,None,High,75,Markdown/Clear,Food
+SKU02087,241,30.0,None,High,75,Markdown/Clear,Sports
+SKU02088,372,12.0,None,High,75,Markdown/Clear,Toys
+SKU02089,178,15.0,None,High,75,Markdown/Clear,Beauty
+SKU02090,382,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02091,222,25.0,None,High,75,Markdown/Clear,Books
+SKU02092,405,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02093,223,30.0,None,High,75,Markdown/Clear,Health
+SKU02094,365,12.0,None,High,75,Markdown/Clear,Clothing
+SKU02095,257,15.0,None,High,75,Markdown/Clear,Automotive
+SKU02096,209,20.0,None,High,75,Markdown/Clear,Electronics
+SKU02097,201,25.0,None,High,75,Markdown/Clear,Health
+SKU02098,80,8.0,None,High,75,Markdown/Clear,Health
+SKU02099,353,30.0,None,High,75,Markdown/Clear,Health
+SKU02100,395,12.0,None,High,75,Markdown/Clear,Electronics
+SKU02101,136,15.0,None,High,75,Markdown/Clear,Clothing
+SKU02102,454,20.0,None,High,75,Markdown/Clear,Food
+SKU02103,93,25.0,None,High,75,Markdown/Clear,Electronics
+SKU02104,293,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02105,297,30.0,None,High,75,Markdown/Clear,Automotive
+SKU02106,118,12.0,None,High,75,Markdown/Clear,Food
+SKU02107,118,15.0,None,High,75,Markdown/Clear,Toys
+SKU02108,265,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02109,143,25.0,None,High,75,Markdown/Clear,Food
+SKU02110,80,8.0,None,High,75,Markdown/Clear,Books
+SKU02111,154,30.0,None,High,75,Markdown/Clear,Automotive
+SKU02112,408,12.0,None,High,75,Markdown/Clear,Clothing
+SKU02113,229,15.0,None,High,75,Markdown/Clear,Toys
+SKU02114,304,20.0,None,High,75,Markdown/Clear,Toys
+SKU02115,74,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02116,75,8.0,None,High,75,Markdown/Clear,Sports
+SKU02117,274,30.0,None,High,75,Markdown/Clear,Automotive
+SKU02118,62,12.0,None,High,75,Markdown/Clear,Clothing
+SKU02119,420,15.0,None,High,75,Markdown/Clear,Books
+SKU02120,408,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02121,487,25.0,None,High,75,Markdown/Clear,Health
+SKU02122,118,8.0,None,High,75,Markdown/Clear,Toys
+SKU02123,249,30.0,None,High,75,Markdown/Clear,Automotive
+SKU02124,421,12.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02125,138,15.0,None,High,75,Markdown/Clear,Toys
+SKU02126,221,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02127,126,25.0,None,High,75,Markdown/Clear,Electronics
+SKU02128,341,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02129,379,30.0,None,High,75,Markdown/Clear,Automotive
+SKU02130,195,12.0,None,High,75,Markdown/Clear,Toys
+SKU02131,109,15.0,None,High,75,Markdown/Clear,Electronics
+SKU02132,200,20.0,None,High,75,Markdown/Clear,Sports
+SKU02133,202,25.0,None,High,75,Markdown/Clear,Clothing
+SKU02134,106,8.0,None,High,75,Markdown/Clear,Books
+SKU02135,142,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02136,408,12.0,None,High,75,Markdown/Clear,Electronics
+SKU02137,495,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02138,122,20.0,None,High,75,Markdown/Clear,Food
+SKU02139,68,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02140,133,8.0,None,High,75,Markdown/Clear,Health
+SKU02141,396,30.0,None,High,75,Markdown/Clear,Sports
+SKU02142,302,12.0,None,High,75,Markdown/Clear,Clothing
+SKU02143,321,15.0,None,High,75,Markdown/Clear,Health
+SKU02144,473,20.0,None,High,75,Markdown/Clear,Electronics
+SKU02145,227,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02146,337,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02147,453,30.0,None,High,75,Markdown/Clear,Clothing
+SKU02148,141,12.0,None,High,75,Markdown/Clear,Toys
+SKU02149,152,15.0,None,High,75,Markdown/Clear,Books
+SKU02150,150,20.0,None,High,75,Markdown/Clear,Beauty
+SKU02151,286,25.0,None,High,75,Markdown/Clear,Clothing
+SKU02152,231,8.0,None,High,75,Markdown/Clear,Health
+SKU02153,364,30.0,None,High,75,Markdown/Clear,Beauty
+SKU02154,447,12.0,None,High,75,Markdown/Clear,Beauty
+SKU02155,158,15.0,None,High,75,Markdown/Clear,Clothing
+SKU02156,236,20.0,None,High,75,Markdown/Clear,Books
+SKU02157,86,25.0,None,High,75,Markdown/Clear,Beauty
+SKU02158,377,8.0,None,High,75,Markdown/Clear,Sports
+SKU02159,102,30.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02160,316,12.0,None,High,75,Markdown/Clear,Food
+SKU02161,445,15.0,None,High,75,Markdown/Clear,Electronics
+SKU02162,78,20.0,None,High,75,Markdown/Clear,Automotive
+SKU02163,293,25.0,None,High,75,Markdown/Clear,Sports
+SKU02164,215,8.0,None,High,75,Markdown/Clear,Beauty
+SKU02165,243,30.0,None,High,75,Markdown/Clear,Electronics
+SKU02166,488,12.0,None,High,75,Markdown/Clear,Electronics
+SKU02167,444,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02168,472,20.0,None,High,75,Markdown/Clear,Books
+SKU02169,124,25.0,None,High,75,Markdown/Clear,Health
+SKU02170,443,8.0,None,High,75,Markdown/Clear,Health
+SKU02171,135,30.0,None,High,75,Markdown/Clear,Electronics
+SKU02172,200,12.0,None,High,75,Markdown/Clear,Health
+SKU02173,383,15.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02174,150,20.0,None,High,75,Markdown/Clear,Sports
+SKU02175,402,25.0,None,High,75,Markdown/Clear,Toys
+SKU02176,144,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02177,445,30.0,None,High,75,Markdown/Clear,Toys
+SKU02178,448,12.0,None,High,75,Markdown/Clear,Electronics
+SKU02179,271,15.0,None,High,75,Markdown/Clear,Clothing
+SKU02180,375,20.0,None,High,75,Markdown/Clear,Automotive
+SKU02181,387,25.0,None,High,75,Markdown/Clear,Health
+SKU02182,407,8.0,None,High,75,Markdown/Clear,Health
+SKU02183,252,30.0,None,High,75,Markdown/Clear,Sports
+SKU02184,370,12.0,None,High,75,Markdown/Clear,Toys
+SKU02185,429,15.0,None,High,75,Markdown/Clear,Sports
+SKU02186,444,20.0,None,High,75,Markdown/Clear,Health
+SKU02187,165,25.0,None,High,75,Markdown/Clear,Beauty
+SKU02188,428,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02189,185,30.0,None,High,75,Markdown/Clear,Electronics
+SKU02190,149,12.0,None,High,75,Markdown/Clear,Food
+SKU02191,403,15.0,None,High,75,Markdown/Clear,Books
+SKU02192,224,20.0,None,High,75,Markdown/Clear,Health
+SKU02193,275,25.0,None,High,75,Markdown/Clear,Sports
+SKU02194,239,8.0,None,High,75,Markdown/Clear,Food
+SKU02195,413,30.0,None,High,75,Markdown/Clear,Beauty
+SKU02196,246,12.0,None,High,75,Markdown/Clear,Books
+SKU02197,132,15.0,None,High,75,Markdown/Clear,Toys
+SKU02198,312,20.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02199,411,25.0,None,High,75,Markdown/Clear,Food
+SKU02200,353,8.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02201,222,30.0,None,High,75,Markdown/Clear,Sports
+SKU02202,452,12.0,None,High,75,Markdown/Clear,Books
+SKU02203,153,15.0,None,High,75,Markdown/Clear,Automotive
+SKU02204,304,20.0,None,High,75,Markdown/Clear,Books
+SKU02205,289,25.0,None,High,75,Markdown/Clear,Home & Garden
+SKU02206,71,8.0,None,High,75,Markdown/Clear,Clothing
+SKU02207,307,30.0,None,High,75,Markdown/Clear,Sports
+SKU02208,156,12.0,None,High,75,Markdown/Clear,Food
+SKU02209,250,15.0,None,High,75,Markdown/Clear,Electronics
+SKU02210,249,20.0,None,High,75,Markdown/Clear,Beauty
+SKU02211,285,25.0,None,High,75,Markdown/Clear,Books
+SKU02212,284,8.0,None,High,75,Markdown/Clear,Beauty
