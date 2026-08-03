@@ -45,17 +45,25 @@ class DataPipeline:
         # Remove duplicates
         sales = sales.drop_duplicates()
         
+        # Rename columns to match expected format
+        sales = sales.rename(columns={
+            'date': 'Date',
+            'store_id': 'Store_ID',
+            'sku_id': 'SKU',
+            'units_sold': 'Units Sold',
+            'revenue': 'Revenue',
+            'unit_price': 'Price',
+            'promotion': 'Promotion'
+        })
+        
         # Convert date column
-        sales['Date'] = pd.to_datetime(sales['date'])
+        sales['Date'] = pd.to_datetime(sales['Date'])
         
         # Fill missing values
-        sales['Units Sold'] = sales['units_sold'].fillna(0)
-        sales['Revenue'] = sales['revenue'].fillna(0)
-        sales['Price'] = sales['unit_price'].fillna(sales['unit_price'].median())
-        sales['Promotion'] = sales['promotion'].fillna(0)
-        
-        # Rename columns to match expected format
-        sales = sales.rename(columns={'store_id': 'Store_ID', 'sku_id': 'SKU'})
+        sales['Units Sold'] = sales['Units Sold'].fillna(0)
+        sales['Revenue'] = sales['Revenue'].fillna(0)
+        sales['Price'] = sales['Price'].fillna(sales['Price'].median())
+        sales['Promotion'] = sales['Promotion'].fillna(0)
         
         return sales
     
@@ -65,6 +73,17 @@ class DataPipeline:
         
         # Remove duplicates
         sku_master = sku_master.drop_duplicates()
+        
+        # Rename columns to match expected format
+        sku_master = sku_master.rename(columns={
+            'sku_id': 'SKU',
+            'sku_name': 'SKU_Name',
+            'category': 'Category',
+            'subcategory': 'Subcategory',
+            'unit_price': 'Price',
+            'cost_price': 'Cost',
+            'brand': 'Brand'
+        })
         
         # Fill missing values
         sku_master['Category'] = sku_master['Category'].fillna('Unknown')
@@ -80,12 +99,22 @@ class DataPipeline:
         # Remove duplicates
         calendar = calendar.drop_duplicates()
         
-        # Convert date column
-        calendar['Date'] = pd.to_datetime(calendar['date'])
-        
         # Rename columns to match expected format
-        calendar['Holiday'] = calendar['holiday_flag'].fillna(0)
-        calendar['Season'] = calendar['season'].fillna('Regular')
+        calendar = calendar.rename(columns={
+            'date': 'Date',
+            'week': 'Week',
+            'month': 'Month',
+            'season': 'Season',
+            'holiday_flag': 'Holiday',
+            'promotion_events': 'Promotion_Events'
+        })
+        
+        # Convert date column
+        calendar['Date'] = pd.to_datetime(calendar['Date'])
+        
+        # Fill missing values
+        calendar['Holiday'] = calendar['Holiday'].fillna(0)
+        calendar['Season'] = calendar['Season'].fillna('Regular')
         
         return calendar
     
@@ -96,11 +125,30 @@ class DataPipeline:
         # Remove duplicates
         inventory = inventory.drop_duplicates()
         
+        # Rename columns to match expected format
+        inventory = inventory.rename(columns={
+            'store_id': 'Store_ID',
+            'sku_id': 'SKU',
+            'stock_on_hand': 'Current Stock',
+            'reorder_point': 'Reorder Point',
+            'safety_stock': 'Safety Stock',
+            'last_restock_date': 'Last Restock Date'
+        })
+        
         # Fill missing values
         inventory['Current Stock'] = inventory['Current Stock'].fillna(0)
-        inventory['Ordered Stock'] = inventory['Ordered Stock'].fillna(0)
-        inventory['Lead Time'] = inventory['Lead Time'].fillna(inventory['Lead Time'].median())
         inventory['Reorder Point'] = inventory['Reorder Point'].fillna(inventory['Reorder Point'].median())
+        
+        # Calculate ordered stock and lead time if not present
+        if 'Ordered Stock' not in inventory.columns:
+            inventory['Ordered Stock'] = 0
+        else:
+            inventory['Ordered Stock'] = inventory['Ordered Stock'].fillna(0)
+            
+        if 'Lead Time' not in inventory.columns:
+            inventory['Lead Time'] = 7  # Default lead time
+        else:
+            inventory['Lead Time'] = inventory['Lead Time'].fillna(7)
         
         return inventory
     
