@@ -1,28 +1,27 @@
 # Core Data Science Libraries
-pandas>=2.2.3
-numpy>=1.26.4
-scikit-learn>=1.5.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
 
 # Visualization
-matplotlib==3.9.0
-plotly==5.22.0
-seaborn==0.13.2
+matplotlib==3.8.4
+plotly==5.18.0
+seaborn==0.13.1
 
 # Dashboard
-streamlit==1.37.0
+streamlit==1.35.0
 
 # API Framework
-fastapi==0.112.0
-uvicorn==0.30.6
-pydantic==2.8.2
-pydantic-core==2.20.0
+fastapi==0.110.0
+uvicorn==0.28.0
+pydantic==2.7.0
 
 # Forecasting Models
-prophet>=1.1.6
-lightgbm==4.5.0
+prophet==1.1.4
+lightgbm==4.3.0
 
 # Data Processing
-python-dateutil==2.9.0
+python-dateutil==2.8.2
 pytz==2024.1
 
 # Jupyter
@@ -31,5 +30,5 @@ notebook==7.2.1
 ipykernel==6.29.5
 
 # Utilities
-tqdm==4.66.4
-joblib==1.4.2
+tqdm==4.66.2
+joblib==1.4.0
