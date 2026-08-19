@@ -37,9 +37,9 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data
-data/processed/*
-!data/processed/.gitkeep
+# Data - Keep all data files for deployment
+# data/processed/*
+# !data/processed/.gitkeep
 
 # Git
 .git/
