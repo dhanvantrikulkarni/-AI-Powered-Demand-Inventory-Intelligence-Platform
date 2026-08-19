@@ -3,8 +3,10 @@ services:
     name: foresight-dashboard
     runtime: python
     plan: free
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install --upgrade pip && pip install -r requirements-prod.txt
     startCommand: streamlit run app/streamlit_app.py --server.address=0.0.0.0 --server.port=$PORT
     envVars:
       - key: PORT
         value: 8501
+      - key: PYTHONUNBUFFERED
+        value: "1"
